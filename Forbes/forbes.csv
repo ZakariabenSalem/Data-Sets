@@ -1,0 +1,2001 @@
+Company,Country,Sector,Industry
+ICBC,China,Financials,Major Banks
+China Construction Bank,China,Financials,Regional Banks
+Berkshire Hathaway,United States,Financials,Investment Services
+JPMorgan Chase,United States,Financials,Major Banks
+Wells Fargo,United States,Financials,Major Banks
+Agricultural Bank of China,China,Financials,Regional Banks
+Bank of America,United States,Financials,Major Banks
+Bank of China,China,Financials,Major Banks
+Apple,United States,Information Technology,Computer Hardware
+Toyota Motor,Japan,Consumer Discretionary,Auto & Truck Manufacturers
+AT&T,United States,Telecommunication Services,Telecommunications services
+Citigroup,United States,Financials,Major Banks
+Exxon Mobil,United States,Energy,
+General Electric,United States,Industrials,Conglomerates
+Samsung Electronics,South Korea,Information Technology,Semiconductors
+Ping An Insurance Group,China,Financials,Diversified Insurance
+Wal-Mart Stores,United States,Consumer Discretionary,Discount Stores
+Verizon Communications,United States,Telecommunication Services,Telecommunications services
+Microsoft,United States,Information Technology,Software & Programming
+Royal Dutch Shell,Netherlands,Energy,Oil & Gas Operations
+Allianz,Germany,Financials,Diversified Insurance
+China Mobile,Hong Kong,Telecommunication Services,Telecommunications services
+BNP Paribas,France,Financials,Major Banks
+Alphabet,United States,Information Technology,
+China Petroleum & Chemical,China,Energy,
+Total,France,Energy,Oil & Gas Operations
+AXA Group,France,Financials,Diversified Insurance
+Daimler,Germany,Consumer Discretionary,Auto & Truck Manufacturers
+Volkswagen Group,Germany,Consumer Discretionary,Auto & Truck Manufacturers
+Mitsubishi UFJ Financial,Japan,Financials,Major Banks
+Comcast,United States,Consumer Discretionary,Broadcasting & Cable
+Johnson & Johnson,United States,Health Care,Medical Equipment & Supplies
+Banco Santander,Spain,Financials,Major Banks
+Bank of Communications,China,Financials,Major Banks
+Nestle,Switzerland,Consumer Staples,Food Processing
+UnitedHealth Group,United States,Health Care,Managed Health Care
+Nippon Telegraph & Tel,Japan,Telecommunication Services,Telecommunications services
+Itaú Unibanco Holding,Brazil,Financials,
+Softbank,Japan,Telecommunication Services,Telecommunications services
+Gazprom,Russia,Energy,Oil & Gas Operations
+General Motors,United States,Consumer Discretionary,Auto & Truck Manufacturers
+China Merchants Bank,China,Financials,Major Banks
+IBM,United States,Information Technology,Computer Services
+Royal Bank of Canada,Canada,Financials,Major Banks
+Japan Post Holdings,Japan,Consumer Discretionary,
+Procter & Gamble,United States,Consumer Staples,Household/Personal Care
+Pfizer,United States,Health Care,Pharmaceuticals
+HSBC Holdings,United Kingdom,Financials,Major Banks
+Goldman Sachs Group,United States,Financials,Investment Services
+Siemens,Germany,Industrials,Conglomerates
+BMW Group,Germany,Consumer Discretionary,Auto & Truck Manufacturers
+China Life Insurance,China,Financials,Life & Health Insurance
+ING Group,Netherlands,Financials,Life & Health Insurance
+Intel,United States,Information Technology,Semiconductors
+Postal Savings Bank Of China,China,Financials,
+Sberbank,Russia,Financials,Regional Banks
+TD Bank Group,Canada,Financials,Major Banks
+Cisco Systems,United States,Information Technology,Communications Equipment
+Commonwealth Bank,Australia,Financials,Major Banks
+Morgan Stanley,United States,Financials,Investment Services
+Novartis,Switzerland,Health Care,Pharmaceuticals
+Banco Bradesco,Brazil,Financials,Regional Banks
+Industrial Bank,China,Financials,Regional Banks
+Ford Motor,United States,Consumer Discretionary,Auto & Truck Manufacturers
+Shanghai Pudong Development,China,Financials,Regional Banks
+CVS Health,United States,Financials,
+Walt Disney,United States,Consumer Discretionary,Broadcasting & Cable
+Prudential,United Kingdom,Financials,Life & Health Insurance
+Prudential Financial,United States,Financials,Life & Health Insurance
+Oracle,United States,Information Technology,Software & Programming
+China State Construction Engineering,China,Industrials,
+Citic Pacific,Hong Kong,Materials,Iron & Steel
+Boeing,United States,Industrials,Aerospace & Defense
+Honda Motor,Japan,Consumer Discretionary,Auto & Truck Manufacturers
+China Minsheng Banking,China,Financials,Regional Banks
+Westpac Banking Group,Australia,Financials,Major Banks
+Deutsche Telekom,Germany,Telecommunication Services,Telecommunications services
+China Citic Bank,China,Financials,Regional Banks
+Roche Holding,Switzerland,Health Care,Pharmaceuticals
+UBS,Switzerland,Financials,Investment Services
+Bank of Nova Scotia,Canada,Financials,Major Banks
+Rosneft,Russia,Energy,Oil & Gas Operations
+Amazon.com,United States,Consumer Discretionary,Internet & Catalog Retail
+PepsiCo,United States,Consumer Staples,Beverages
+Sumitomo Mitsui Financial,Japan,Financials,Major Banks
+Coca-Cola,United States,Consumer Staples,Beverages
+United Technologies,United States,Industrials,Conglomerates
+Sanofi,France,Health Care,Pharmaceuticals
+Bayer,Germany,Materials,Diversified Chemicals
+Mizuho Financial,Japan,Financials,Major Banks
+Zurich Insurance Group,Switzerland,Financials,Diversified Insurance
+ANZ,Australia,Financials,Major Banks
+BASF,Germany,Materials,Diversified Chemicals
+Walgreens Boots Alliance,United States,Consumer Discretionary,
+Nissan Motor,Japan,Consumer Discretionary,Auto & Truck Manufacturers
+US Bancorp,United States,Financials,Major Banks
+American Express,United States,Financials,Consumer Financial Services
+Hon Hai Precision,Taiwan,Information Technology,Electronics
+Enel,Italy,Utilities,Electric Utilities
+Merck,United States,Health Care,Pharmaceuticals
+National Australia Bank,Australia,Financials,Major Banks
+PetroChina,China,Energy,Oil & Gas Operations
+Unilever,Netherlands,Consumer Staples,Food Processing
+Hyundai Motor,South Korea,Consumer Discretionary,Auto & Truck Manufacturers
+BBVA-Banco Bilbao Vizcaya,Spain,Financials,Major Banks
+Reliance Industries,India,Energy,Oil & Gas Operations
+Charter Communications,United States,Consumer Discretionary,Broadcasting & Cable
+SAIC Motor,China,Consumer Discretionary,Auto & Truck Manufacturers
+Chubb,Switzerland,Financials,Property & Casualty Insurance
+Telefónica,Spain,Telecommunication Services,
+AIA Group,Hong Kong,Financials,Life & Health Insurance
+Société Générale,France,,
+Dow Chemical,United States,Materials,Diversified Chemicals
+Home Depot,United States,Consumer Discretionary,Home Improvement Retail
+Lloyds Banking Group,United Kingdom,Financials,Major Banks
+Medtronic,Ireland,Health Care,Medical Equipment & Supplies
+Kraft Heinz Company,United States,Consumer Staples,
+Saudi Basic Industries,Saudi Arabia,Materials,Diversified Chemicals
+Facebook,United States,Information Technology,Computer Services
+Munich Re,Germany,Financials,Diversified Insurance
+Intesa Sanpaolo,Italy,Financials,Major Banks
+Barclays,United Kingdom,Financials,Major Banks
+Rio Tinto,United Kingdom,Materials,Diversified Metals & Mining
+BHP Billiton,Australia,Materials,Diversified Metals & Mining
+CK Hutchison,Hong Kong,Energy,
+Anheuser-Busch InBev,Belgium,Consumer Staples,Beverages
+Taiwan Semiconductor,Taiwan,Information Technology,Semiconductors
+Capital One Financial,United States,Financials,Consumer Financial Services
+LukOil,Russia,Energy,Oil & Gas Operations
+Swiss Re,Switzerland,Financials,Diversified Insurance
+Amgen,United States,Health Care,Biotechs
+Banco do Brasil,Brazil,Financials,Major Banks
+Bank of Montreal,Canada,Financials,Major Banks
+Gilead Sciences,United States,Health Care,Biotechs
+China Communications Construction,China,Industrials,Construction Services
+Honeywell International,United States,Industrials,Conglomerates
+Manulife,Canada,Consumer Discretionary,
+Korea Electric Power,South Korea,Utilities,Electric Utilities
+Generali Group,Italy,Financials,Diversified Insurance
+Alibaba,China,Telecommunication Services,
+KDDI,Japan,Telecommunication Services,Telecommunications services
+China Telecom,China,Telecommunication Services,Telecommunications services
+AbbVie,United States,Health Care,Pharmaceuticals
+Tokio Marine Holdings,Japan,Financials,Property & Casualty Insurance
+Iberdrola,Spain,Utilities,Electric Utilities
+EDF,France,Utilities,Electric Utilities
+PNC Financial Services,United States,Financials,Regional Banks
+Tencent Holdings,China,Information Technology,Computer Services
+Allergan,Ireland,Health Care,Pharmaceuticals
+China Everbright Bank,China,Financials,Regional Banks
+Credit Agricole,France,Financials,Major Banks
+Lockheed Martin,United States,Industrials,Aerospace & Defense
+Time Warner,United States,Consumer Discretionary,Broadcasting & Cable
+Duke Energy,United States,Utilities,Electric Utilities
+Anthem,United States,,
+Vale,Brazil,Materials,Iron & Steel
+Nordea Bank,Sweden,Financials,Regional Banks
+Express Scripts,United States,Health Care,Healthcare Services
+United Parcel Service,United States,Industrials,Air Courier
+Aetna,United States,Health Care,Managed Health Care
+China Shenhua Energy,China,Materials,Diversified Metals & Mining
+VINCI,France,Industrials,Construction Services
+Bank of New York Mellon,United States,Financials,Major Banks
+Renault,France,Consumer Discretionary,Auto & Truck Manufacturers
+China Railway Group,China,Industrials,Construction Services
+EADS,Netherlands,Industrials,Aerospace & Defense
+China Railway Construction,China,Industrials,Construction Services
+China Vanke,China,Financials,Real Estate
+Jardine Matheson,Hong Kong,Industrials,Conglomerates
+Qualcomm,United States,Information Technology,Semiconductors
+Hewlett Packard Enterprise,United States,Information Technology,
+British American Tobacco,United Kingdom,Consumer Staples,Tobacco
+Visa,United States,Financials,Consumer Financial Services
+China Pacific Insurance,China,Financials,Life & Health Insurance
+MetLife,United States,Financials,Diversified Insurance
+AstraZeneca,United Kingdom,Health Care,Pharmaceuticals
+Altria Group,United States,Consumer Staples,Tobacco
+SAP,Germany,Information Technology,Software & Programming
+Costco Wholesale,United States,Consumer Discretionary,Discount Stores
+Travelers,United States,,
+Philip Morris International,United States,Consumer Staples,Tobacco
+Union Pacific,United States,Industrials,Railroads
+Delta Air Lines,United States,Industrials,Airline
+Southern Company,United States,,
+Lowe's,United States,Energy,
+National Grid,United Kingdom,Utilities,Natural Gas Utilities
+Legal & General Group,United Kingdom,Financials,Life & Health Insurance
+McKesson,United States,Health Care,Pharmaceuticals
+Christian Dior,France,Consumer Discretionary,Apparel/Accessories
+PTT PCL,Thailand,Energy,Oil & Gas Operations
+Dai-ichi Life Insurance,Japan,Financials,Life & Health Insurance
+Twenty-First Century Fox,United States,,
+Canadian Imperial Bank,Canada,Financials,Major Banks
+FedEx,United States,Industrials,Air Courier
+GlaxoSmithKline,United Kingdom,Health Care,Pharmaceuticals
+Deutsche Post,Germany,Industrials,Air Courier
+3M,United States,Industrials,Conglomerates
+L'Oréal Group,France,Industrials,
+Aflac,United States,Financials,Life & Health Insurance
+Allstate,United States,Financials,Diversified Insurance
+Hitachi,Japan,Information Technology,Electronics
+Brookfield Asset Management,Canada,Financials,Real Estate
+BT Group,United Kingdom,Telecommunication Services,Telecommunications services
+NextEra Energy,United States,Utilities,Electric Utilities
+BlackRock,United States,Financials,Investment Services
+Continental,Germany,Consumer Discretionary,Auto & Truck Parts
+MS&AD Insurance,Japan,Financials,Property & Casualty Insurance
+Aviva,United Kingdom,Financials,Life & Health Insurance
+Cigna,United States,Health Care,Managed Health Care
+Phillips 66,United States,Energy,Oil & Gas Operations
+Valero Energy,United States,Energy,Oil & Gas Operations
+Enbridge,Canada,Energy,Oil Services & Equipment
+Mondelēz International,United States,Consumer Discretionary,
+People's Insurance Company,China,Financials,Property & Casualty Insurance
+McDonald's,United States,Consumer Discretionary,Restaurants
+ArcelorMittal,Luxembourg,Materials,Iron & Steel
+East Japan Railway,Japan,Industrials,Railroads
+Itochu,Japan,Industrials,Trading Companies
+Japan Tobacco,Japan,Consumer Staples,Tobacco
+EI du Pont de Nemours,United States,Materials,Diversified Chemicals
+Eli Lilly,United States,Health Care,
+Panasonic,Japan,Consumer Discretionary,Consumer Electronics
+Sun Hung Kai Properties,Hong Kong,Financials,Real Estate
+Fiat Chrysler Automobiles,United Kingdom,,
+LafargeHolcim,Switzerland,Consumer Discretionary,
+Qatar National Bank,Qatar,Financials,Regional Banks
+Target,United States,Consumer Discretionary,Discount Stores
+Fresenius,Germany,Health Care,Medical Equipment & Supplies
+Danaher,United States,Industrials,Conglomerates
+Danske Bank,Denmark,Financials,Major Banks
+General Dynamics,United States,Industrials,Aerospace & Defense
+Reynolds American,United States,Consumer Staples,Tobacco
+Denso,Japan,Consumer Discretionary,Auto & Truck Parts
+Bristol-Myers Squibb,United States,Health Care,Pharmaceuticals
+CRRC,China,,
+ABB,Switzerland,Industrials,Conglomerates
+Exelon,United States,Utilities,Electric Utilities
+Cathay Financial,Taiwan,Financials,Life & Health Insurance
+Sun Life Financial,Canada,Financials,Life & Health Insurance
+Repsol,Spain,Energy,
+Kroger,United States,Consumer Staples,Food Retail
+Abbott Laboratories,United States,Health Care,Pharmaceuticals
+HCA Holdings,United States,Health Care,Healthcare Services
+State Bank of India,India,Financials,Regional Banks
+DBS Group,Singapore,Financials,Major Banks
+Oil & Natural Gas,India,Energy,Oil & Gas Operations
+American Airlines Group,United States,Financials,
+BB&T,United States,Financials,Regional Banks
+Nike,United States,Financials,
+Schneider Electric,France,Industrials,Electrical Equipment
+Thermo Fisher Scientific,United States,Utilities,Precision Healthcare Equipment
+Danone,France,Consumer Staples,Food Processing
+Samsung Life Insurance,South Korea,Financials,Life & Health Insurance
+Air Liquide,France,Materials,Specialized Chemicals
+Huaxia Bank,China,Financials,Regional Banks
+Orix,Japan,Financials,Consumer Financial Services
+Bank of Beijing,China,Financials,Regional Banks
+HDFC Bank,India,Financials,Regional Banks
+KBC Group,Belgium,Financials,Major Banks
+Deere & Company,United States,Consumer Staples,
+Diageo,United Kingdom,Consumer Staples,Beverages
+Central Japan Railway,Japan,Industrials,Railroads
+Liberty Global,United Kingdom,Consumer Discretionary,Broadcasting & Cable
+Indian Oil,India,Energy,Oil & Gas Operations
+Shinhan Financial Group,South Korea,Financials,Investment Services
+Canon,Japan,Industrials,Business Products & Supplies
+Synchrony Financial,United States,Financials,
+Saint-Gobain,France,Materials,Construction Materials
+United Continental Holdings,United States,Industrials,Airline
+Carnival,United States,Consumer Discretionary,Hotels & Motels
+HP,United States,Information Technology,
+Accenture,Ireland,Information Technology,Computer Services
+Country Garden Holdings,Hong Kong,Financials,Real Estate
+State Street,United States,Financials,Investment Services
+Volvo Group,Sweden,Industrials,Heavy Equipment
+Inditex,Spain,Consumer Discretionary,Apparel/Footwear Retail
+Seven & I Holdings,Japan,Consumer Staples,Food Retail
+Mitsubishi Electric,Japan,Industrials,Electrical Equipment
+Bridgestone,Japan,Consumer Discretionary,Auto & Truck Parts
+PG&E,United States,Utilities,Electric Utilities
+Cardinal Health,United States,Health Care,Pharmaceuticals
+Telstra,Australia,Telecommunication Services,Telecommunications services
+Dominion Resources,United States,Utilities,Electric Utilities
+Nomura,Japan,Financials,
+Raytheon,United States,Industrials,Aerospace & Defense
+Henkel,Germany,Consumer Staples,Household/Personal Care
+Marathon Petroleum,United States,Energy,Oil & Gas Operations
+Merck,Germany,Health Care,Pharmaceuticals
+Peugeot,France,Consumer Discretionary,Auto & Truck Manufacturers
+Tata Motors,India,Consumer Discretionary,Auto & Truck Manufacturers
+Archer Daniels Midland,United States,Consumer Staples,Food Processing
+CNP Assurances,France,Financials,Diversified Insurance
+Natixis,France,Financials,Major Banks
+China Huarong Asset Management,China,Financials,
+Imperial Tobacco Group,United Kingdom,Consumer Staples,Tobacco
+BCE,Canada,Telecommunication Services,Telecommunications services
+Northrop Grumman,United States,Industrials,Aerospace & Defense
+LyondellBasell Industries,United Kingdom,Materials,Diversified Chemicals
+Posco,South Korea,Materials,Iron & Steel
+Telecom Italia,Italy,Telecommunication Services,Telecommunications services
+Oversea-Chinese Banking,Singapore,Financials,Regional Banks
+KB Financial Group,South Korea,Financials,Investment Services
+Charles Schwab,United States,Financials,Investment Services
+Orange,France,Financials,
+Surgutneftegas,Russia,Energy,Oil & Gas Operations
+Sompo,Japan,Financials,
+Gas Natural Fenosa,Spain,Utilities,Natural Gas Utilities
+WPP,United Kingdom,Consumer Discretionary,Advertising
+Bank Of Shanghai,China,Financials,
+ICICI Bank,India,Financials,Regional Banks
+Poly Real Estate,China,Financials,Real Estate
+Hyundai Mobis,South Korea,Consumer Discretionary,Auto & Truck Parts
+DNB,Norway,Financials,Regional Banks
+Philips,Netherlands,Industrials,Conglomerates
+AmerisourceBergen,United States,Health Care,Pharmaceuticals
+Heineken Holding,Netherlands,Consumer Staples,Beverages
+CRH,Ireland,Materials,Construction Materials
+Discover Financial Services,United States,Financials,Consumer Financial Services
+Safran,France,Industrials,Aerospace & Defense
+Etisalat,United Arab Emirates,Telecommunication Services,Telecommunications services
+CaixaBank,Spain,Financials,Regional Banks
+Eaton,Ireland,Industrials,Other Industrial Equipment
+Fubon Financial,Taiwan,Financials,Investment Services
+Sumitomo,Japan,Financials,
+SunTrust Banks,United States,Financials,Regional Banks
+Greenland Holdings Group,China,Financials,
+China Cinda Asset Management,China,Financials,
+Anglo American,United Kingdom,Materials,Diversified Metals & Mining
+China Resources Land,Hong Kong,Financials,Real Estate
+Royal Ahold Delhaize N.V.,Netherlands,Utilities,
+SingTel,Singapore,Telecommunication Services,Telecommunications services
+United Overseas Bank,Singapore,Financials,Regional Banks
+Subaru,Japan,Financials,
+Automatic Data Processing,United States,Consumer Discretionary,
+Midea Group,China,Utilities,
+Linde,Germany,Materials,Diversified Chemicals
+KIA Motors,South Korea,Consumer Discretionary,Auto & Truck Manufacturers
+Hartford Financial Services,United States,Financials,Diversified Insurance
+Southwest Airlines,United States,Industrials,Airline
+América Móvil,Mexico,Financials,
+Principal Financial Group,United States,Financials,Life & Health Insurance
+Fannie Mae,United States,Financials,Investment Services
+Ameriprise Financial,United States,Financials,Investment Services
+Macquarie Group,Australia,Financials,Investment Services
+Carrefour,France,Consumer Staples,Food Retail
+Celgene,United States,Health Care,Biotechs
+China Evergrande Group,China,Health Care,
+Takeda Pharmaceutical,Japan,Health Care,Pharmaceuticals
+SK Hynix,South Korea,Information Technology,Semiconductors
+Saudi Telecom,Saudi Arabia,Telecommunication Services,Telecommunications services
+Tyson Foods,United States,Consumer Staples,Food Processing
+Sinohydro Group,China,Industrials,Construction Services
+Reckitt Benckiser Group,United Kingdom,Consumer Staples,Household/Personal Care
+CSX,United States,Industrials,Railroads
+Freddie Mac,United States,Financials,Investment Services
+Lincoln National,United States,Financials,Life & Health Insurance
+Kinder Morgan,United States,Energy,Oil Services & Equipment
+Power Corp of Canada,Canada,Financials,Life & Health Insurance
+BP,United Kingdom,Energy,Oil & Gas Operations
+Chevron,United States,Energy,Oil & Gas Operations
+Michelin Group,France,Consumer Discretionary,Auto & Truck Parts
+Cheung Kong Property Holdings,Hong Kong,Financials,
+SK Holdings,South Korea,Energy,Oil & Gas Operations
+Gree Electric Appliances,China,Consumer Discretionary,Household Appliances
+BAE Systems,United Kingdom,Industrials,Aerospace & Defense
+Bank Of Jiangsu,China,Financials,
+Edison International,United States,Utilities,Electric Utilities
+Kansai Electric Power,Japan,Utilities,Electric Utilities
+New China Life Insurance,China,Financials,Life & Health Insurance
+Starbucks,United States,Consumer Discretionary,Restaurants
+Centrica,United Kingdom,Utilities,Natural Gas Utilities
+Biogen,United States,Health Care,
+Canadian National Railway,Canada,Industrials,Railroads
+HDFC,India,Financials,Consumer Financial Services
+Novo Nordisk,Denmark,Health Care,Pharmaceuticals
+Swedbank,Sweden,Financials,Major Banks
+Tata Consultancy Services,India,Information Technology,Computer Services
+Monsanto,United States,Materials,Specialized Chemicals
+Mastercard,United States,Information Technology,
+Femsa,Mexico,Consumer Staples,Beverages
+PayPal,United States,Consumer Discretionary,
+Progressive,United States,Financials,Property & Casualty Insurance
+Svenska Handelsbanken,Sweden,Financials,Major Banks
+Mitsui Fudosan,Japan,Financials,Real Estate
+SEB,Sweden,Financials,Major Banks
+Bank Rakyat Indonesia,Indonesia,Financials,Regional Banks
+Texas Instruments,United States,Information Technology,Semiconductors
+Wilmar International,Singapore,Consumer Staples,Food Processing
+Daiwa House Industry,Japan,Industrials,Construction Services
+Baidu,China,Information Technology,Computer Services
+Consolidated Edison,United States,Utilities,Electric Utilities
+Maybank,Malaysia,Financials,Regional Banks
+DISH Network,United States,Consumer Discretionary,Broadcasting & Cable
+Citic Securities,China,Financials,Investment Services
+American Electric,United States,Utilities,Electric Utilities
+Suzuki Motor,Japan,Consumer Discretionary,Auto & Truck Manufacturers
+VTB Bank,Russia,Financials,Regional Banks
+Metallurgical Corp of China,China,Industrials,Construction Services
+Petrobras,Brazil,Energy,Oil & Gas Operations
+Norfolk Southern,United States,Industrials,Railroads
+TJX Cos,United States,Consumer Discretionary,Department Stores
+Investor AB,Sweden,Financials,
+American International Group,United States,Financials,Diversified Insurance
+Sempra Energy,United States,Utilities,Natural Gas Utilities
+International Airlines,United Kingdom,Industrials,Airline
+SSE,United Kingdom,Utilities,Electric Utilities
+eBay,United States,Consumer Discretionary,Internet & Catalog Retail
+NTPC,India,Utilities,Electric Utilities
+Old Mutual,United Kingdom,Financials,Investment Services
+Magna International,Canada,Consumer Discretionary,Auto & Truck Parts
+China Yangtze Power,China,Utilities,Electric Utilities
+NN Group,Netherlands,Energy,
+Sumitomo Mitsui Trust,Japan,Financials,Major Banks
+General Mills,United States,Consumer Staples,Food Processing
+Talanx,Germany,Financials,Diversified Insurance
+The Priceline Group,United States,Financials,
+EXOR,Italy,Financials,Investment Services
+Glencore International,Switzerland,Materials,Diversified Metals & Mining
+Vodafone,United Kingdom,Telecommunication Services,Telecommunications services
+Huaneng Power International,China,Utilities,Electric Utilities
+Standard Bank Group,South Africa,Financials,Major Banks
+Swiss Life Holding,Switzerland,Financials,Life & Health Insurance
+FirstRand,South Africa,Financials,Major Banks
+Sysco,United States,Consumer Staples,Food Retail
+International Paper,United States,Materials,Paper & Paper Products
+Vivendi,France,Telecommunication Services,Telecommunications services
+Kimberly-Clark,United States,Consumer Staples,Household/Personal Care
+National Commercial Bank,Saudi Arabia,Financials,
+Erste Group Bank,Austria,Financials,Major Banks
+Baoshan Iron & Steel,China,Materials,Iron & Steel
+Eni,Italy,Energy,Oil & Gas Operations
+Saudi Electricity,Saudi Arabia,Utilities,Electric Utilities
+Corning,United States,Information Technology,Communications Equipment
+Daikin Industries,Japan,Materials,Construction Materials
+Mitsubishi Chemical,Japan,Materials,Diversified Chemicals
+Becton Dickinson,United States,Health Care,
+SK Innovation,South Korea,Energy,Oil & Gas Operations
+Humana,United States,Health Care,Managed Health Care
+Emerson Electric,United States,Industrials,Electrical Equipment
+Nippon Steel & Sumitomo Metal,Japan,Materials,Iron & Steel
+Deutsche Bank,Germany,Financials,Major Banks
+Toyota Industries,Japan,Consumer Discretionary,Auto & Truck Parts
+Pernod Ricard,France,Consumer Staples,Beverages
+Aon,United Kingdom,Financials,Insurance Brokers
+IntercontinentalExchange,United States,Financials,Investment Services
+Stryker,United States,Health Care,Medical Equipment & Supplies
+Fujifilm Holdings,Japan,Consumer Discretionary,Consumer Electronics
+Fosun International,China,Materials,Iron & Steel
+Sony,Japan,Consumer Discretionary,Consumer Electronics
+Chubu Electric Power,Japan,Utilities,Electric Utilities
+Las Vegas Sands,United States,Consumer Discretionary,Casinos & Gaming
+Xcel Energy,United States,Utilities,Electric Utilities
+Fifth Third Bancorp,United States,Financials,Regional Banks
+Bouygues,France,Industrials,Construction Services
+ENGIE,France,,
+Steinhoff International,Netherlands,Consumer Discretionary,Furniture & Fixtures
+Wheelock,Hong Kong,,
+Marsh & McLennan,United States,Financials,Insurance Brokers
+CBS,United States,Consumer Discretionary,Broadcasting & Cable
+Fujitsu,Japan,Information Technology,Computer Hardware
+Statoil,Norway,Energy,Oil & Gas Operations
+Wesfarmers,Australia,Consumer Staples,Food Retail
+Axis Bank,India,Financials,Regional Banks
+HeidelbergCement,Germany,Materials,Construction Materials
+Illinois Tool Works,United States,Industrials,Other Industrial Equipment
+Formosa Petrochemical,Taiwan,Energy,Oil & Gas Operations
+Marriott International,United States,Consumer Discretionary,Hotels & Motels
+Adidas,Germany,Consumer Discretionary,Apparel/Accessories
+CLP Holdings,Hong Kong,Utilities,Electric Utilities
+Thomson Reuters,United States,Consumer Discretionary,Printing & Publishing
+Kering,France,Consumer Discretionary,Apparel/Accessories
+Colgate-Palmolive,United States,Consumer Staples,Household/Personal Care
+Richemont,Switzerland,Consumer Discretionary,Specialty Stores
+Shin-Etsu Chemical,Japan,Materials,Diversified Chemicals
+Mapfre,Spain,Financials,Diversified Insurance
+Poste Italiane,Italy,Consumer Discretionary,
+Aisin Seiki,Japan,Consumer Discretionary,Auto & Truck Parts
+Mitsubishi,Japan,Utilities,
+Mitsubishi Estate,Japan,Financials,Real Estate
+PPL,United States,Utilities,Electric Utilities
+Waste Management,United States,Industrials,Environmental & Waste
+Micron Technology,United States,Information Technology,Semiconductors
+Larsen & Toubro,India,Industrials,Construction Services
+Aegon,Netherlands,Financials,Diversified Insurance
+Teva Pharmaceutical,Israel,Health Care,
+Compass Group,United Kingdom,Consumer Discretionary,Restaurants
+Suncor Energy,Canada,Energy,Oil & Gas Operations
+EDP-Energias de Portugal,Portugal,Utilities,Electric Utilities
+Syngenta,Switzerland,Materials,Specialized Chemicals
+Tenaga Nasional,Malaysia,Utilities,Electric Utilities
+Credit Suisse Group,Switzerland,Financials,Investment Services
+Hana Financial Group,South Korea,Financials,Regional Banks
+Sampo,Finland,Financials,Diversified Insurance
+Bank Mandiri,Indonesia,Financials,Regional Banks
+Schlumberger,United States,Energy,Oil Services & Equipment
+UniCredit Group,Italy,Financials,Major Banks
+M&T Bank,United States,Financials,Regional Banks
+Thales,France,Industrials,Aerospace & Defense
+Applied Materials,United States,Information Technology,Semiconductors
+Royal Bank of Scotland,United Kingdom,Financials,Major Banks
+SK Telecom,South Korea,Telecommunication Services,Telecommunications services
+TE Connectivity,Switzerland,Information Technology,Electronics
+Caterpillar,United States,Industrials,Heavy Equipment
+China Merchants Shekou Industrial Zone Holdings,China,Financials,
+Ecolab,United States,Materials,Specialized Chemicals
+H&M,Sweden,Consumer Discretionary,Apparel/Footwear Retail
+Omnicom Group,United States,Consumer Discretionary,Advertising
+Chinatrust Financial,Taiwan,Financials,Consumer Financial Services
+Komatsu,Japan,Industrials,Heavy Equipment
+Haitong Securities,China,Financials,Investment Services
+Grupo ACS,Spain,Industrials,Construction Services
+Resona Holdings,Japan,Financials,Regional Banks
+Bharti Airtel,India,Telecommunication Services,Telecommunications services
+Deutsche Lufthansa,Germany,Industrials,Airline
+Al Rajhi Bank,Saudi Arabia,Financials,Regional Banks
+Swisscom,Switzerland,Telecommunication Services,Telecommunications services
+Couche Tard,Canada,Consumer Discretionary,Specialty Stores
+Loews,United States,Financials,Diversified Insurance
+ConocoPhillips,United States,Energy,Oil & Gas Operations
+Baxter International,United States,Health Care,Medical Equipment & Supplies
+Praxair,United States,Materials,Specialized Chemicals
+Kyocera,Japan,Information Technology,Electronics
+Garanti Bank,Turkey,Financials,Regional Banks
+China Unicom,Hong Kong,Telecommunication Services,Telecommunications services
+CIC Group,France,Financials,Major Banks
+Kubota,Japan,Industrials,Heavy Equipment
+Isbank,Turkey,Financials,Regional Banks
+Astellas Pharma,Japan,Health Care,Pharmaceuticals
+CNOOC,Hong Kong,Energy,Oil & Gas Operations
+Simon Property Group,United States,Financials,Real Estate
+ASML Holding,Netherlands,Information Technology,Semiconductors
+British Sky Broadcasting,United Kingdom,Consumer Discretionary,Broadcasting & Cable
+Cummins,United States,Industrials,Heavy Equipment
+China Zheshang Bank,China,Utilities,
+Standard Chartered,United Kingdom,Financials,Major Banks
+Tokyo Electric Power,Japan,Utilities,Electric Utilities
+Cognizant Technology,United States,Information Technology,Computer Services
+Viacom,United States,Consumer Discretionary,Broadcasting & Cable
+Sasol,South Africa,Materials,Diversified Chemicals
+Public Service Enterprise Group,United States,Energy,
+Coal India,India,Materials,Diversified Metals & Mining
+Novatek,Russia,Energy,Oil & Gas Operations
+Kirin Holdings,Japan,Consumer Staples,Beverages
+T&D Holdings,Japan,Financials,Life & Health Insurance
+Mitsui,Japan,Financials,
+Regions Financial,United States,Financials,Regional Banks
+Ingersoll Rand,Ireland,,
+CenturyLink,United States,Telecommunication Services,Telecommunications services
+Bank of Nanjing,China,Financials,Regional Banks
+Dongfeng Motor Group,China,Consumer Discretionary,Auto & Truck Manufacturers
+Citizens Financial Group,United States,Financials,
+Swire Pacific,Hong Kong,Industrials,Conglomerates
+RELX Group,United Kingdom,Information Technology,
+Samsung Fire & Marine,South Korea,Financials,Property & Casualty Insurance
+Associated British Foods,United Kingdom,Consumer Staples,Food Processing
+Standard Life,United Kingdom,Financials,Life & Health Insurance
+Ally Financial,United States,Financials,
+Møller-Maersk,Denmark,,
+Ecopetrol,Colombia,Energy,Oil & Gas Operations
+National Bank of Canada,Canada,Financials,Major Banks
+Sumitomo Electric,Japan,Consumer Discretionary,Auto & Truck Parts
+Shire,Ireland,Health Care,Pharmaceuticals
+Akzo Nobel,Netherlands,Materials,Diversified Chemicals
+Bank Central Asia,Indonesia,Financials,Regional Banks
+Marubeni,Japan,Industrials,Trading Companies
+DTE Energy,United States,Utilities,Electric Utilities
+Koç Holding,Turkey,Financials,
+Unum,United States,Financials,
+Best Buy,United States,Information Technology,Computer & Electronics Retail
+Atlas Copco,Sweden,Industrials,Other Industrial Equipment
+MTR,Hong Kong,Industrials,Railroads
+Suncorp Group,Australia,Financials,Diversified Insurance
+Emirates NBD,United Arab Emirates,Financials,Regional Banks
+LG Chem,South Korea,Materials,Specialized Chemicals
+QBE Insurance Group,Australia,Financials,Property & Casualty Insurance
+Northern Trust,United States,Financials,Regional Banks
+CME Group,United States,Financials,Investment Services
+Otsuka Holding,Japan,Health Care,Pharmaceuticals
+Altice,Netherlands,Telecommunication Services,
+American Tower,United States,Financials,Real Estate
+Sinopharm Group,China,Health Care,Pharmaceuticals
+Falabella,Chile,Consumer Discretionary,Department Stores
+Bharat Petroleum,India,Energy,Oil & Gas Operations
+Newell Brands,United States,Consumer Discretionary,
+Akbank,Turkey,Financials,Regional Banks
+Norilsk Nickel,Russia,Materials,Diversified Metals & Mining
+Atlantia,Italy,Industrials,Other Transportation
+Tesco,United Kingdom,Consumer Staples,Food Retail
+MGM Resorts,United States,Consumer Discretionary,Casinos & Gaming
+Dollar Tree,United States,Consumer Discretionary,Discount Stores
+GFNorte,Mexico,Financials,Regional Banks
+Broadcom,Singapore,Information Technology,Semiconductors
+Woori Bank,South Korea,Financials,
+Guotai Junan Securities,China,,
+Constellation Brands,United States,Consumer Staples,Beverages
+Royal Caribbean Cruises,United States,Consumer Discretionary,Hotels & Motels
+Air Products & Chemicals,United States,Materials,Specialized Chemicals
+Infosys,India,Information Technology,Computer Services
+BYD,China,Consumer Discretionary,Auto & Truck Manufacturers
+KeyCorp,United States,Financials,Regional Banks
+Johnson Controls International,Ireland,,
+Asahi Kasei,Japan,Materials,Diversified Chemicals
+New World Development,Hong Kong,Financials,Real Estate
+Siam Cement,Thailand,Materials,Specialized Chemicals
+Toray Industries,Japan,Materials,Diversified Chemicals
+Grupo Mexico,Mexico,Materials,Diversified Metals & Mining
+E.ON,Germany,Utilities,Electric Utilities
+Dell Technologies,United States,Information Technology,
+Nokia,Finland,Information Technology,Communications Equipment
+Eletrobrás,Brazil,Utilities,
+Legend Holding,China,Financials,
+Dollar General,United States,Consumer Discretionary,Discount Stores
+Banco de Sabadell,Spain,Financials,Regional Banks
+Eversource Energy,United States,Energy,
+China Taiping Insurance,Hong Kong,Financials,Diversified Insurance
+Hyundai Heavy Industries,South Korea,Industrials,Heavy Equipment
+Sekisui House,Japan,Industrials,Construction Services
+Siam Commercial Bank,Thailand,Financials,Regional Banks
+China Eastern Airlines,China,Industrials,Airline
+Cemex,Mexico,Materials,Construction Materials
+Sumitomo Realty,Japan,Financials,Real Estate
+Murata Manufacturing,Japan,Information Technology,Electronics
+WEC Energy Group,United States,Energy,
+JXTG Holdings,Japan,Financials,
+China Fortune Land Development,China,,
+Evonik,Germany,,
+Henderson Land,Hong Kong,Financials,Real Estate
+China Southern Airlines,China,Industrials,Airline
+ThyssenKrupp Group,Germany,Industrials,Conglomerates
+Whirlpool,United States,Consumer Discretionary,Household Appliances
+Paccar,United States,Industrials,Heavy Equipment
+Public Bank,Malaysia,Financials,Regional Banks
+Bank of Ningbo,China,Financials,Regional Banks
+Valeo,France,Consumer Discretionary,Auto & Truck Parts
+Asahi Group Holdings,Japan,Consumer Staples,Beverages
+Unibail-Rodamco,France,Financials,Real Estate
+Delphi Automotive,United Kingdom,Consumer Discretionary,Auto & Truck Parts
+Bunge,United States,Consumer Staples,Food Processing
+Capgemini,France,Information Technology,Computer Services
+Mylan,United Kingdom,Health Care,Pharmaceuticals
+Sodexo,France,Consumer Discretionary,Business & Personal Services
+Kasikornbank,Thailand,Financials,Major Banks
+TELUS,Canada,Telecommunication Services,Telecommunications services
+Formosa Chemicals,Taiwan,Materials,Specialized Chemicals
+Kao Corp,Japan,Consumer Staples,Household/Personal Care
+VMware,United States,Information Technology,Software & Programming
+Kweichow Moutai,China,Consumer Staples,Beverages
+SCA,Sweden,Consumer Staples,Household/Personal Care
+Fidelity National Information,United States,Consumer Discretionary,Business & Personal Services
+Aeon,Japan,Consumer Discretionary,Discount Stores
+Centene,United States,Health Care,
+Great Wall Motor,China,Consumer Discretionary,Auto & Truck Manufacturers
+Telkom Indonesia,Indonesia,Telecommunication Services,
+Molson Coors Brewing,United States,Consumer Staples,Beverages
+Naspers,South Africa,Consumer Discretionary,Broadcasting & Cable
+Stanley Black & Decker,United States,Consumer Staples,Household/Personal Care
+Nucor,United States,Materials,Iron & Steel
+Transneft,Russia,Energy,Oil Services & Equipment
+JD.com,China,Consumer Discretionary,
+National Bank of Abu Dhabi,United Arab Emirates,Financials,Regional Banks
+West Japan Railway,Japan,Industrials,Railroads
+DaVita,United States,Health Care,Healthcare Services
+Commerzbank,Germany,Financials,Major Banks
+Fortescue Metals Group,Australia,Materials,Iron & Steel
+Nan Ya Plastics,Taiwan,Materials,Diversified Chemicals
+Solvay,Belgium,Materials,Diversified Chemicals
+Longfor Properties,China,Financials,Real Estate
+Rogers Communications,Canada,Telecommunication Services,Telecommunications services
+Barrick Gold,Canada,Materials,Diversified Metals & Mining
+China Reinsurance Group,China,,
+CIMB Group Holdings,Malaysia,Financials,Regional Banks
+Krung Thai Bank,Thailand,Financials,Regional Banks
+Tatneft,Russia,Energy,Oil & Gas Operations
+WH Group,Hong Kong,,
+Kellogg,United States,Consumer Staples,Food Processing
+Recruit Holdings,Japan,Financials,
+Fast Retailing,Japan,Consumer Discretionary,Apparel/Footwear Retail
+Estée Lauder,United States,,
+Allied Irish Banks,Ireland,Financials,Regional Banks
+PKN Orlen,Poland,Energy,Oil & Gas Operations
+BAIC Motor,China,Consumer Discretionary,
+Mazda Motor,Japan,Consumer Discretionary,Auto & Truck Manufacturers
+Weyerhaeuser,United States,Financials,Real Estate
+Woolworths,Australia,Consumer Staples,Food Retail
+Dong Energy,Denmark,Energy,
+Level 3 Communications,United States,Telecommunication Services,Telecommunications services
+Franklin Resources,United States,Financials,Investment Services
+Nidec,Japan,Industrials,Electrical Equipment
+George Weston,Canada,Consumer Staples,Food Retail
+Lenovo Group,Hong Kong,Information Technology,Computer Hardware
+LG Display,South Korea,Information Technology,Electronics
+Activision Blizzard,United States,,
+Grupo Aval,Colombia,Financials,Investment Services
+All Nippon Airways,Japan,Industrials,Airline
+Reinsurance Group of America,United States,Financials,Diversified Insurance
+Tesoro,United States,Energy,Oil & Gas Operations
+Samsung C&T,South Korea,Industrials,Trading Companies
+RWE Group,Germany,Utilities,Electric Utilities
+Guosen Securities,China,Financials,
+TransCanada,Canada,Energy,Oil Services & Equipment
+Adobe Systems,United States,Information Technology,Software & Programming
+Teliasonera,Sweden,Telecommunication Services,Telecommunications services
+Dentsu,Japan,Consumer Discretionary,Advertising
+Deutsche Boerse,Germany,Financials,Investment Services
+Daiwa Securities,Japan,Financials,Investment Services
+GF Securities,China,Financials,Investment Services
+Textron,United States,Industrials,Conglomerates
+Mitsubishi Heavy Industries,Japan,Industrials,Heavy Equipment
+Republic Services,United States,Industrials,Environmental & Waste
+Ericsson,Sweden,Information Technology,Communications Equipment
+Isuzu Motors,Japan,Consumer Discretionary,Auto & Truck Manufacturers
+Anhui Conch Cement,China,Materials,Construction Materials
+First Data,United States,Information Technology,
+Vonovia,Germany,,
+Telenor,Norway,Telecommunication Services,Telecommunications services
+Halliburton,United States,Energy,Oil Services & Equipment
+PPG,United States,Materials,
+CGN Power,China,Energy,
+Bankia,Spain,Financials,Regional Banks
+Chunghwa Telecom,Taiwan,Telecommunication Services,Telecommunications services
+Veolia Environnement,France,Utilities,Diversified Utilities
+Occidental Petroleum,United States,Energy,Oil & Gas Operations
+J Sainsbury,United Kingdom,Consumer Staples,Food Retail
+Bancolombia,Colombia,Financials,Regional Banks
+Sherwin-Williams,United States,Consumer Discretionary,Home Improvement Retail
+NVIDIA,United States,Information Technology,Semiconductors
+HAL Trust,Netherlands,Financials,Investment Services
+VF,United States,Consumer Discretionary,Apparel/Accessories
+Yum Brands,United States,Consumer Discretionary,Restaurants
+Qingdao Haier,China,Consumer Discretionary,Household Appliances
+Prologis,United States,Financials,Real Estate
+Goodyear,United States,Consumer Discretionary,Auto & Truck Parts
+Liberty Interactive,United States,Consumer Discretionary,Internet & Catalog Retail
+Coca-Cola European Partners,United Kingdom,,
+Ross Stores,United States,Consumer Discretionary,Apparel/Footwear Retail
+CNH Industrial,United Kingdom,Materials,
+Macy's,United States,Consumer Discretionary,Department Stores
+XL Group,Bermuda,Financials,Diversified Insurance
+Parker-Hannifin,United States,Industrials,Other Industrial Equipment
+Sabanci Holding,Turkey,Industrials,Conglomerates
+Annaly Capital Management,United States,Financials,Real Estate
+Industrial Bank of Korea,South Korea,Financials,Regional Banks
+Hanwha,South Korea,,
+Essilor International,France,Health Care,Medical Equipment & Supplies
+Kotak Mahindra Bank,India,Financials,Regional Banks
+Kyushu Electric Power,Japan,Utilities,Electric Utilities
+Scor,France,Financials,Diversified Insurance
+Chongqing Changan Auto,China,Consumer Discretionary,Auto & Truck Manufacturers
+Husky Energy,Canada,Energy,Oil & Gas Operations
+China Energy Engineering,China,Energy,
+Abertis,Spain,Industrials,Other Transportation
+Huatai Securities,China,Financials,Investment Services
+Luxottica Group,Italy,Consumer Discretionary,Specialty Stores
+Teck Resources,Canada,Materials,Diversified Metals & Mining
+Lotte Chemical,South Korea,Materials,Specialized Chemicals
+Tohoku Electric Power,Japan,Utilities,Electric Utilities
+Western Digital,United States,Information Technology,Computer Storage Devices
+National Bank of Kuwait,Kuwait,Financials,Regional Banks
+Rolls-Royce Holdings,United Kingdom,Industrials,Aerospace & Defense
+Japan Airlines,Japan,Industrials,Airline
+Credicorp,Peru,Financials,Regional Banks
+UPM-Kymmene,Finland,Materials,Paper & Paper Products
+Guangdong Wens Foodstuffs Group,China,Consumer Staples,
+Toyota Tsusho,Japan,Industrials,Trading Companies
+Wipro,India,Information Technology,Computer Services
+Hilton,United States,,
+Daqin Railway,China,Industrials,Railroads
+Lennar,United States,Industrials,Construction Services
+Ferrovial,Spain,Industrials,Other Transportation
+Anadarko Petroleum,United States,Energy,Oil & Gas Operations
+Scentre Group,Australia,,
+AutoZone,United States,Consumer Discretionary,Specialty Stores
+Agrium,Canada,Materials,Specialized Chemicals
+Vestas Wind Systems,Denmark,Industrials,Electrical Equipment
+China Resources Power,Hong Kong,Utilities,Electric Utilities
+Freeport-mcmoran,United States,,
+Samba Financial Group,Saudi Arabia,Financials,Regional Banks
+ROSSETI,Russia,Energy,
+Schaeffler,Germany,Industrials,
+GD Power Development,China,Utilities,Electric Utilities
+Adecco,Switzerland,Consumer Discretionary,Business & Personal Services
+Discovery Communications,United States,Consumer Discretionary,Broadcasting & Cable
+Canadian Natural Resources,Canada,Energy,Oil & Gas Operations
+Ryanair Holdings,Ireland,Industrials,Airline
+Huntington Bancshares,United States,Financials,Regional Banks
+Hong Kong Exchanges,Hong Kong,Financials,Investment Services
+Carlsberg,Denmark,Consumer Staples,Beverages
+Porsche Automobil Holding,Germany,Consumer Discretionary,Auto & Truck Manufacturers
+Kone,Finland,Industrials,Construction Services
+CarMax,United States,Consumer Discretionary,Specialty Stores
+Itaúsa,Brazil,,
+Sime Darby,Malaysia,Industrials,Conglomerates
+Wolseley,Switzerland,Materials,Construction Materials
+Air France-KLM,France,Industrials,Airline
+Willis Towers Watson,United Kingdom,,
+Welltower,United States,,
+ITC,India,Consumer Staples,Tobacco
+KT Corp,South Korea,Telecommunication Services,Telecommunications services
+OMV Group,Austria,Energy,Oil & Gas Operations
+Sumitomo Chemical,Japan,Materials,Diversified Chemicals
+Emaar Properties,United Arab Emirates,Financials,Real Estate
+VEON,Netherlands,Telecommunication Services,
+Eiffage,France,Industrials,Construction Services
+Bangkok Bank,Thailand,Financials,Regional Banks
+Metro Group,Germany,Consumer Staples,Food Retail
+CSL,Australia,Health Care,Biotechs
+Hindustan Petroleum,India,Energy,Oil & Gas Operations
+DR Horton,United States,Industrials,Construction Services
+Leonardo,Italy,,
+Shenwan Hongyuan Group,China,,
+LG Electronics,South Korea,Consumer Discretionary,Consumer Electronics
+Kuehne + Nagel,Switzerland,Industrials,Other Transportation
+FirstEnergy,United States,Utilities,Electric Utilities
+Magnit,Russia,Consumer Staples,Food Retail
+S&P Global,United States,,
+Chongqing Rural Bank,Hong Kong,Financials,Regional Banks
+Toshiba,Japan,Information Technology,Electronics
+General Growth Properties,United States,Financials,Real Estate
+JFE Holdings,Japan,Materials,Iron & Steel
+Netease,China,Information Technology,Computer Services
+LabCorp,United States,Health Care,Healthcare Services
+ATOS,France,Information Technology,Computer Services
+Fanuc,Japan,Industrials,Other Industrial Equipment
+SM Investments,Philippines,Consumer Discretionary,Department Stores
+Hyundai Steel,South Korea,Materials,Iron & Steel
+Eastman Chemical,United States,Materials,Specialized Chemicals
+O'Reilly Automotive,United States,Consumer Discretionary,Specialty Stores
+L Brands,United States,Consumer Discretionary,Apparel/Footwear Retail
+First Republic Bank,United States,Financials,Regional Banks
+S-Oil,South Korea,Energy,Oil & Gas Operations
+EOG Resources,United States,Energy,Oil & Gas Operations
+Secom,Japan,Industrials,Security Systems
+LG Corp,South Korea,Consumer Discretionary,Household Appliances
+Abu Dhabi Commercial Bank,United Arab Emirates,Financials,Regional Banks
+Hermès International,France,,
+Link REIT,Hong Kong,Financials,Real Estate
+TD Ameritrade Holding,United States,Financials,Investment Services
+Sanlam,South Africa,Financials,Life & Health Insurance
+Daiichi Sankyo,Japan,Health Care,Pharmaceuticals
+Norsk Hydro,Norway,Materials,Aluminum
+Williams,United States,,
+Guangzhou Automobile Group,China,,
+American Financial Group,United States,Financials,Diversified Insurance
+NXP Semiconductors,Netherlands,Information Technology,Semiconductors
+China National Nuclear Power,China,Energy,
+Athene Holding,Bermuda,Energy,
+Woodside Petroleum,Australia,Energy,Oil & Gas Operations
+Boston Scientific,United States,Health Care,Medical Equipment & Supplies
+Raiffeisen Bank International,Austria,Financials,Major Banks
+AMP,Australia,Financials,Investment Services
+Formosa Plastics,Taiwan,Materials,Specialized Chemicals
+China Steel,Taiwan,Materials,Iron & Steel
+Bank of Ireland,Ireland,Financials,Major Banks
+China Gezhouba,China,Industrials,Construction Services
+Bâloise Group,Switzerland,,
+Rakuten,Japan,Consumer Discretionary,Internet & Catalog Retail
+Ameren,United States,Utilities,Electric Utilities
+Symantec,United States,Information Technology,Software & Programming
+Yara International,Norway,Materials,Specialized Chemicals
+Assa Abloy,Sweden,Industrials,Other Industrial Equipment
+Shengjing Bank,China,Financials,
+Aena,Spain,Industrials,
+Mega Financial Holding,Taiwan,Financials,Investment Services
+Shanghai International Port,China,Industrials,Other Transportation
+Tokyo Gas,Japan,Utilities,Natural Gas Utilities
+Mohawk Industries,United States,Consumer Discretionary,Furniture & Fixtures
+Ooredoo Telecom,Qatar,Telecommunication Services,Telecommunications services
+China Galaxy Securities,China,Financials,
+Unipol Gruppo,Italy,Financials,Diversified Insurance
+Quanta Computer,Taiwan,Information Technology,Computer Hardware
+Lam Research,United States,Materials,
+China Merchants Securities,China,Financials,Investment Services
+Bank of Jinzhou,China,Financials,
+Entergy,United States,Utilities,Electric Utilities
+Canadian Pacific Railway,Canada,Industrials,Railroads
+JM Smucker,United States,Consumer Staples,Food Processing
+NEC,Japan,Information Technology,Electronics
+Kingfisher,United Kingdom,Consumer Discretionary,Home Improvement Retail
+Lear,United States,Consumer Discretionary,Auto & Truck Parts
+Taisei,Japan,Industrials,Construction Services
+Kajima,Japan,Industrials,Construction Services
+Sandvik,Sweden,Industrials,Other Industrial Equipment
+DP World,United Arab Emirates,Industrials,Other Transportation
+Pegatron,Taiwan,Information Technology,Electronics
+Power Grid of India,India,Utilities,Electric Utilities
+Obayashi,Japan,Industrials,Construction Services
+Zimmer Biomet,United States,Industrials,
+Devon Energy,United States,Energy,Oil & Gas Operations
+Hormel Foods,United States,Consumer Staples,Food Processing
+Julius Baer Group,Switzerland,Financials,Investment Services
+S.f. Holding,China,Financials,
+Schindler Holding,Switzerland,Industrials,Other Industrial Equipment
+Avalonbay Communities,United States,Financials,Real Estate
+Cencosud,Chile,Consumer Staples,Food Retail
+JBS,Brazil,Consumer Staples,Food Processing
+Uniper,Germany,Energy,
+Suning Appliance,China,Consumer Discretionary,Specialty Stores
+Yahoo!,United States,Information Technology,
+L3 Technologies,United States,Information Technology,
+CEZ Group,Czech Republic,Utilities,Electric Utilities
+PKO Bank Polski,Poland,Financials,Regional Banks
+Alliance Data Systems,United States,Consumer Discretionary,Business & Personal Services
+AerCap Holdings,Ireland,Financials,
+Genuine Parts,United States,Consumer Discretionary,Specialty Stores
+Fortis (Canada),Canada,Utilities,Electric Utilities
+Infineon Technologies,Germany,Information Technology,Semiconductors
+Klepierre,France,,
+Randstad Holding,Netherlands,Consumer Discretionary,Business & Personal Services
+Skanska,Sweden,Industrials,Construction Services
+Raymond James Financial,United States,Financials,Investment Services
+Gemdale,China,Financials,Real Estate
+Invesco,United States,Financials,Investment Services
+DSM,Netherlands,Materials,Diversified Chemicals
+Ageas,Belgium,Financials,Diversified Insurance
+Zhejiang Zheneng Electric Power,China,Utilities,Electric Utilities
+Mahindra & Mahindra,India,Consumer Discretionary,Auto & Truck Manufacturers
+Swatch Group,Switzerland,Consumer Discretionary,Apparel/Accessories
+Huishang Bank,China,Financials,
+Vornado Realty,United States,Financials,Real Estate
+Everest Re Group,Bermuda,Financials,Diversified Insurance
+Bank Hapoalim,Israel,Financials,Major Banks
+Shimao Property Holdings,Hong Kong,Financials,Real Estate
+Saudi British Bank,Saudi Arabia,Financials,Regional Banks
+Bank Negara Indonesia,Indonesia,Financials,Regional Banks
+Inner Mongolia Yili,China,Consumer Staples,Food Processing
+Asr Nederland,Netherlands,,
+Beiersdorf,Germany,Consumer Staples,Household/Personal Care
+Sharp,Japan,Consumer Discretionary,Consumer Electronics
+Salesforce.com,United States,Information Technology,Software & Programming
+Aluminum Corp of China,China,Materials,Aluminum
+Mercantil Servicios,Venezuela,Financials,Regional Banks
+Halkbank,Turkey,Financials,Regional Banks
+Guangzhou R&F,China,Financials,Real Estate
+Tesla,United States,Consumer Discretionary,
+Tokyu,Japan,Industrials,Railroads
+Neste Oil,Finland,Energy,Oil & Gas Operations
+CMS Energy,United States,Utilities,Electric Utilities
+Conagra Brands,United States,,
+China Shipbuilding Industry,China,Industrials,Heavy Equipment
+Jeronimo Martins,Portugal,Consumer Staples,Food Retail
+Fairfax Financial,Canada,Financials,Property & Casualty Insurance
+Westfield,Australia,,
+Keyence,Japan,Information Technology,Electronics
+Banque Saudi Fransi,Saudi Arabia,Financials,Regional Banks
+Towngas,Hong Kong,Energy,
+Galaxy Entertainment,Hong Kong,Consumer Discretionary,Casinos & Gaming
+WR Berkley,United States,Financials,Property & Casualty Insurance
+CapitaLand,Singapore,Financials,Real Estate
+Shimizu,Japan,Industrials,Construction Services
+Snam,Italy,Energy,
+VakifBank,Turkey,Financials,Regional Banks
+Baker Hughes,United States,Energy,Oil Services & Equipment
+Onex,Canada,Financials,Investment Services
+Publicis Groupe,France,Consumer Discretionary,Advertising
+St. James's Place,United Kingdom,,
+Hershey,United States,Consumer Staples,Food Processing
+CenterPoint Energy,United States,Utilities,Natural Gas Utilities
+HCL Technologies,India,Information Technology,Software & Programming
+Riyad Bank,Saudi Arabia,Financials,Regional Banks
+TUI,Germany,Consumer Discretionary,Business & Personal Services
+BOE Technology Group,China,Information Technology,Electronics
+UC Rusal,Russia,Materials,Aluminum
+Idemitsu Kosan,Japan,Energy,Oil & Gas Operations
+WestRock,United States,,
+Deutsche Wohnen,Germany,,
+Public Storage,United States,Financials,Real Estate
+Mebuki Financial Group,Japan,Financials,
+Comerica,United States,Financials,Regional Banks
+Voya Financial,United States,Financials,
+Arch Capital Group,Bermuda,Financials,Property & Casualty Insurance
+Daito Trust Construction,Japan,Industrials,Construction Services
+Fiserv,United States,Information Technology,Software & Programming
+Ventas,United States,Financials,Real Estate
+CBRE Group,United States,Financials,Real Estate
+Huadian Power International,China,Utilities,Electric Utilities
+Markel,United States,Financials,Diversified Insurance
+Fidelity National Financial,United States,Financials,Property & Casualty Insurance
+Inpex,Japan,Energy,Oil & Gas Operations
+Leucadia National,United States,Industrials,Conglomerates
+China Coal Energy,China,Materials,Diversified Metals & Mining
+Ultrapar Participacoes,Brazil,,
+Bank Of Hangzhou,China,Financials,
+Electronic Arts,United States,Information Technology,
+Fortive,United States,Industrials,
+CP All,Thailand,Consumer Discretionary,Specialty Stores
+Amphenol,United States,Information Technology,Electronics
+Regeneron Pharmaceuticals,United States,Health Care,Biotechs
+Mediobanca,Italy,Financials,Regional Banks
+Asahi Glass,Japan,Materials,Construction Materials
+Universal Health,United States,Health Care,Healthcare Services
+Mediatek,Taiwan,Information Technology,Semiconductors
+Singapore Airlines,Singapore,Industrials,Airline
+Banco BTG Pactual Participations,Bermuda,,
+Suntory Beverage & Food,Japan,Consumer Staples,
+Shanghai Pharmaceuticals,China,Health Care,Drug Retail
+Netflix,United States,Consumer Discretionary,Internet & Catalog Retail
+CGI Group,Canada,Information Technology,Computer Services
+Gap,United States,Consumer Discretionary,Apparel/Footwear Retail
+Hankyu Hanshin Holdings,Japan,Industrials,Railroads
+Dr Pepper Snapple Group,United States,Consumer Staples,Beverages
+Cincinnati Financial,United States,Financials,Diversified Insurance
+Dongbu Insurance,South Korea,Financials,Property & Casualty Insurance
+Power Assets Holdings,Hong Kong,Utilities,Electric Utilities
+Bank of East Asia,Hong Kong,Financials,Regional Banks
+Harris,United States,Information Technology,Communications Equipment
+YPF,Argentina,Energy,
+Finatis,France,Consumer Staples,Food Retail
+Nielsen,United States,,
+Novolipetsk Steel,Russia,Materials,Iron & Steel
+Kuwait Finance House,Kuwait,Financials,Regional Banks
+China Grand Automotive Services,China,Consumer Discretionary,
+EnBW-Energie Baden,Germany,Utilities,Electric Utilities
+Dubai Islamic Bank,United Arab Emirates,Financials,Regional Banks
+Hikvision,China,Information Technology,Electronics
+Navient,United States,Financials,
+South32,Australia,Materials,
+Tokyo Electron,Japan,Information Technology,Semiconductors
+BDO Unibank,Philippines,Financials,
+Kohl's,United States,Consumer Discretionary,Department Stores
+MTN Group,South Africa,Telecommunication Services,Telecommunications services
+WW Grainger,United States,Industrials,Electrical Equipment
+Severstal,Russia,Materials,Iron & Steel
+Sun Pharma Industries,India,Health Care,Pharmaceuticals
+Weichai Power,China,Industrials,Heavy Equipment
+Arrow Electronics,United States,Information Technology,Electronics
+Grupa PZU,Poland,Financials,Property & Casualty Insurance
+PTT Global Chemical,Thailand,Materials,Diversified Chemicals
+Bank Leumi,Israel,Financials,Major Banks
+China Resources Pharmaceutical Group,Hong Kong,Health Care,
+Geely Automobile Holdings,Hong Kong,,
+Insurance Australia Group,Australia,Financials,Property & Casualty Insurance
+E-Trade Financial,United States,Financials,Investment Services
+Nintendo,Japan,Consumer Discretionary,Consumer Electronics
+Stora Enso,Finland,Materials,Paper & Paper Products
+BBMG,China,Materials,Construction Materials
+Seagate Technology,Ireland,Information Technology,Computer Storage Devices
+TDK,Japan,Information Technology,Electronics
+Uni-President,Taiwan,Consumer Staples,Food Processing
+Rockwell Automation,United States,Industrials,Other Industrial Equipment
+Henry Schein,United States,Health Care,Medical Equipment & Supplies
+Meiji Holdings,Japan,Consumer Staples,Food Processing
+Intuit,United States,Information Technology,Software & Programming
+Lixil Group,Japan,Materials,Construction Materials
+London Stock Exchange,United Kingdom,Financials,Investment Services
+Amadeus IT Group,Spain,Information Technology,
+Arconic,United States,Materials,
+Zoetis,United States,Health Care,Pharmaceuticals
+Helvetia Holding,Switzerland,Financials,Diversified Insurance
+Advanced Semiconductor,Taiwan,Information Technology,Semiconductors
+Yamaha Motor,Japan,Consumer Discretionary,Recreational Products
+Alleghany,United States,Financials,Property & Casualty Insurance
+Crown Castle International,United States,Telecommunication Services,Telecommunications services
+ZTE,China,Information Technology,Communications Equipment
+Grupo Inbursa,Mexico,Financials,Regional Banks
+Inter Rao,Russia,Utilities,Electric Utilities
+Newmont Mining,United States,Materials,Diversified Metals & Mining
+AES,United States,Utilities,Electric Utilities
+Oneok,United States,Energy,Oil Services & Equipment
+Schroders,United Kingdom,Financials,Investment Services
+C.H. Robinson,United States,Consumer Discretionary,
+Quest Diagnostics,United States,Health Care,Healthcare Services
+Mitsubishi UFJ Lease,Japan,Financials,Rental & Leasing
+Expedia,United States,,
+Boston Properties,United States,Financials,Real Estate
+Beijing Enterprises,Hong Kong,Utilities,Natural Gas Utilities
+Restaurant Brands International,Canada,,
+Analog Devices,United States,Information Technology,Semiconductors
+Liberty Expedia Holdings,United States,,
+KPN,Netherlands,Telecommunication Services,Telecommunications services
+GS Holdings,South Korea,Energy,Oil & Gas Operations
+OTP Bank,Hungary,Financials,Regional Banks
+Roper Industries,United States,Industrials,Other Industrial Equipment
+Host Hotels & Resorts,United States,Financials,Real Estate
+Asustek Computer,Taiwan,Information Technology,Computer Hardware
+Interpublic Group,United States,Consumer Discretionary,Advertising
+QuintilesIMS,United States,,
+Tata Steel,India,Materials,Iron & Steel
+Bankinter,Spain,Financials,Regional Banks
+Campbell Soup,United States,Consumer Staples,Food Processing
+Osaka Gas,Japan,Utilities,Natural Gas Utilities
+First Financial Holding,Taiwan,Financials,Investment Services
+Lotte Shopping,South Korea,Consumer Discretionary,Department Stores
+Vienna Insurance Group,Austria,Financials,Diversified Insurance
+SMC,Japan,Financials,
+Investec,United Kingdom,Financials,Investment Services
+Power Finance,India,Consumer Discretionary,Business & Personal Services
+Voestalpine,Austria,Materials,Iron & Steel
+Hydro One,Canada,Utilities,
+Whole Foods Market,United States,Consumer Staples,Food Retail
+Japan Exchange Group,Japan,Financials,Investment Services
+Fortum,Finland,Utilities,Electric Utilities
+Grupo Bimbo,Mexico,Consumer Staples,Food Processing
+Alrosa,Russia,Materials,Diversified Metals & Mining
+China National Building,China,Materials,Construction Materials
+Saputo,Canada,Consumer Staples,Food Processing
+Shanghai Construction,China,Industrials,Construction Services
+Mondi,United Kingdom,Materials,Paper & Paper Products
+Shin Kong Financial,Taiwan,Financials,Life & Health Insurance
+SDIC Power Holdings,China,Energy,Oil & Gas Operations
+Land Securities Group,United Kingdom,Financials,Real Estate
+China Hongqiao Group,China,Materials,Diversified Metals & Mining
+Clorox,United States,Consumer Staples,Household/Personal Care
+Cielo,Brazil,Consumer Discretionary,Business & Personal Services
+Assurant,United States,Financials,Diversified Insurance
+TCL Corp,China,Consumer Discretionary,Consumer Electronics
+Wuliangye Yibin,China,Consumer Staples,Beverages
+Thai Beverage,Thailand,Consumer Staples,Beverages
+Zions Bancorp,United States,Financials,Regional Banks
+National Oilwell Varco,United States,Energy,Oil Services & Equipment
+Flextronics International,Singapore,Information Technology,Electronics
+Hainan Airlines,China,Industrials,Airline
+Yanzhou Coal Mining,China,Materials,Diversified Metals & Mining
+Shanghai Electric Group,China,Industrials,Heavy Equipment
+Xiamen C&D,China,Industrials,Trading Companies
+Lend Lease Group,Australia,Financials,Real Estate
+T Rowe Price,United States,Financials,Investment Services
+Pgnig Group,Poland,Energy,Oil & Gas Operations
+Galp Energia,Portugal,Energy,Oil & Gas Operations
+Shenzhen Overseas,China,Consumer Discretionary,Hotels & Motels
+Kerry Group,Ireland,Consumer Staples,Food Processing
+Celanese,United States,Materials,Diversified Chemicals
+Experian,Ireland,Consumer Discretionary,Business & Personal Services
+Legrand,France,Industrials,Electrical Equipment
+Datang International Power,China,Utilities,Electric Utilities
+HCP,United States,Financials,Real Estate
+SES,Luxembourg,Consumer Discretionary,Broadcasting & Cable
+AGNC Investment,United States,Financials,
+Bank of Tianjin,China,Financials,
+Phoenix Group Holdings,United Kingdom,Financials,Life & Health Insurance
+Harbin Bank,China,Financials,Regional Banks
+Alaska Air Group,United States,Industrials,Airline
+Cenovus Energy,Canada,Energy,Oil & Gas Operations
+Apache,United States,Energy,Oil & Gas Operations
+Delta Electronics,Taiwan,Information Technology,Electronics
+Electrolux Group,Sweden,Consumer Discretionary,Household Appliances
+Hyundai Marine & Fire,South Korea,Financials,Property & Casualty Insurance
+Korea Gas,South Korea,Utilities,Natural Gas Utilities
+Keppel,Singapore,,
+Wm Morrison Supermarkets,United Kingdom,Consumer Staples,Food Retail
+AntarChile,Chile,Financials,Investment Services
+SGS,Switzerland,Consumer Discretionary,Business & Personal Services
+Hyundai Engineering,South Korea,Industrials,Construction Services
+Toppan Printing,Japan,Consumer Discretionary,Printing & Publishing
+Actelion,Switzerland,Health Care,Pharmaceuticals
+Bank of Baroda,India,Financials,Regional Banks
+Canadian Tire,Canada,Consumer Discretionary,Specialty Stores
+Intuitive Surgical,United States,Health Care,Medical Equipment & Supplies
+Punjab National Bank,India,Financials,Regional Banks
+Charoen Pokphand Foods,Thailand,Consumer Staples,Food Processing
+Renesas Electronics,Japan,Information Technology,Semiconductors
+JG Summit Holdings,Philippines,Financials,
+Ball,United States,Materials,Containers & Packaging
+Olympus,Japan,Consumer Discretionary,Consumer Electronics
+Sun Art Retail Group,Hong Kong,Consumer Discretionary,Specialty Stores
+BCI-Banco Credito,Chile,Financials,Regional Banks
+CDW,United States,Information Technology,
+Hesteel,China,Materials,
+Brown-Forman,United States,Consumer Staples,Beverages
+Sika,Switzerland,Materials,Construction Materials
+Hoya,Japan,Information Technology,Electronics
+SVB Financial Group,United States,Financials,Regional Banks
+Genworth Financial,United States,Financials,Diversified Insurance
+Cerner,United States,Health Care,Healthcare Services
+Foot Locker,United States,Consumer Discretionary,Apparel/Footwear Retail
+Mitsubishi Materials,Japan,Materials,Diversified Metals & Mining
+Interactive Brokers Group,United States,Financials,Investment Services
+Monster Beverage,United States,Consumer Staples,Beverages
+Dover,United States,Industrials,Conglomerates
+Intact Financial,Canada,Financials,Property & Casualty Insurance
+Global Logistic Properties,Singapore,Financials,Real Estate
+Skyworks Solutions,United States,Utilities,
+Terna,Italy,Utilities,Electric Utilities
+Tokyo Century,Japan,,
+Autoliv,Sweden,Consumer Discretionary,Auto & Truck Parts
+Hindalco Industries,India,Materials,Aluminum
+Advance Auto Parts,United States,Consumer Discretionary,Specialty Stores
+Ayala,Philippines,Industrials,Conglomerates
+Paychex,United States,Consumer Discretionary,Business & Personal Services
+Rockwell Collins,United States,Industrials,Aerospace & Defense
+Oriental Land,Japan,Consumer Discretionary,Hotels & Motels
+Industrial Alliance Insurance,Canada,Financials,Life & Health Insurance
+Attijariwafa Bank,Morocco,Financials,Regional Banks
+American Water Works,United States,Utilities,Diversified Utilities
+Motorola Solutions,United States,Information Technology,Communications Equipment
+United Rentals,United States,Financials,Rental & Leasing
+Norwegian Cruise Line Holdings,United States,Financials,
+Harley-Davidson,United States,Consumer Discretionary,Recreational Products
+Hess,United States,Energy,Oil & Gas Operations
+Masraf Al Rayan,Qatar,Financials,Regional Banks
+Jiangsu Yanghe Brewery,China,Consumer Staples,Beverages
+Grifols,Spain,Health Care,Biotechs
+Orient Securities,China,,
+Mitsubishi Motors,Japan,Consumer Discretionary,Auto & Truck Manufacturers
+Origin Energy,Australia,Utilities,Electric Utilities
+Qantas Airways,Australia,Industrials,Airline
+Advanced Info Service,Thailand,Telecommunication Services,Telecommunications services
+Pentair,United Kingdom,Industrials,Other Industrial Equipment
+Industries Qatar,Qatar,Materials,Specialized Chemicals
+Nitto Denko,Japan,Materials,Diversified Chemicals
+Arab National Bank,Saudi Arabia,Financials,Regional Banks
+Zijin Mining Group,China,Materials,Diversified Metals & Mining
+Ricoh,Japan,Industrials,Business Products & Supplies
+Xerox,United States,Industrials,Business Products & Supplies
+Tenet Healthcare,United States,Health Care,Healthcare Services
+SCANA,United States,Utilities,Electric Utilities
+Jiangxi Copper,China,Materials,Diversified Metals & Mining
+Givaudan,Switzerland,Materials,Specialized Chemicals
+Liberty Broadband,United States,,
+Chiba Bank,Japan,Financials,Major Banks
+Everbright Securities,China,Financials,
+Smith & Nephew,United Kingdom,Health Care,Medical Equipment & Supplies
+UCB,Belgium,Health Care,Pharmaceuticals
+Industrivarden,Sweden,Financials,Investment Services
+PVH,United States,Consumer Discretionary,Apparel/Accessories
+ALFA,Mexico,Industrials,Conglomerates
+Avnet,United States,Information Technology,Electronics
+Lundbergs,Sweden,Financials,Real Estate
+NRG Energy,United States,Utilities,Electric Utilities
+Shionogi,Japan,Health Care,
+Csc Financial,China,Financials,
+New York Community,United States,Financials,Thrifts & Mortgage Finance
+Naver,South Korea,Information Technology,
+LARGAN Precision,Taiwan,,
+Yum China Holdings,United States,Financials,
+Banco De Venezuela,Venezuela,Financials,
+CJ Corp,South Korea,Consumer Staples,Food Processing
+CA,United States,Information Technology,Software & Programming
+Top Frontier Investment Holdings,Philippines,Financials,
+Qatar Islamic Bank,Qatar,Financials,Regional Banks
+Canara Bank,India,Financials,Major Banks
+Mosaic,United States,Materials,Specialized Chemicals
+Shinsei Bank,Japan,Financials,Regional Banks
+Braskem,Brazil,Materials,Specialized Chemicals
+Rural Electrification,India,Financials,Investment Services
+Alexion Pharmaceuticals,United States,Health Care,Biotechs
+Aramark,United States,,
+Bank of Zhengzhou,China,Financials,
+Manpower,United States,Consumer Discretionary,Business & Personal Services
+Yes Bank,India,Financials,
+Dexia,Belgium,Financials,Major Banks
+Masco,United States,Materials,Construction Materials
+Torchmark,United States,Financials,Life & Health Insurance
+Proximus,Belgium,Telecommunication Services,
+X5 Retail Group,Netherlands,Consumer Staples,Food Retail
+RSA Insurance Group,United Kingdom,Financials,Property & Casualty Insurance
+Air Canada,Canada,Industrials,Airline
+KLA-Tencor,United States,Information Technology,Semiconductors
+Valeant Pharmaceuticals,Canada,Health Care,Pharmaceuticals
+3i Group,United Kingdom,,
+Bank of India,India,Financials,Regional Banks
+Check Point Software,Israel,Information Technology,Software & Programming
+Taiwan Cooperative Financial,Taiwan,Financials,Consumer Financial Services
+Community Health Systems,United States,Health Care,
+Huntington Ingalls Industries,United States,Industrials,
+PGE Polska Grupa Energetyczna,Poland,,
+Sekisui Chemical,Japan,Industrials,Construction Services
+Brenntag,Germany,Materials,Specialized Chemicals
+Bombardier,Canada,Industrials,Aerospace & Defense
+Coty,United States,Industrials,
+Genting,Malaysia,Consumer Discretionary,Casinos & Gaming
+Bank Of Guiyang,China,Financials,
+PotashCorp,Canada,,
+W&W-Wüstenrot,Germany,,
+Sojitz,Japan,Industrials,Trading Companies
+Darden Restaurants,United States,Consumer Discretionary,Restaurants
+Sunac China Holdings,China,,
+Unicharm,Japan,Consumer Staples,Household/Personal Care
+Ctrip.com International,China,,
+Jyske Bank,Denmark,Financials,Regional Banks
+China Life Insurance (Taiwan),Taiwan,Financials,Life & Health Insurance
+Dai Nippon Printing,Japan,Consumer Discretionary,Printing & Publishing
+CIT Group,United States,Financials,Consumer Financial Services
+IndusInd Bank,India,Financials,
+Banca MPS,Italy,Financials,Major Banks
+Bed Bath & Beyond,United States,Consumer Discretionary,Specialty Stores
+Bank of Chongqing,China,Financials,Regional Banks
+Marathon Oil,United States,Energy,Oil & Gas Operations
+East West Bancorp,United States,Financials,Regional Banks
+Nitori Holdings,Japan,Financials,
+Yamato Holdings,Japan,Industrials,Trucking
+Cosco Shipping,China,,
+SKF Group,Sweden,Industrials,Other Industrial Equipment
+GAIL India,India,Utilities,Natural Gas Utilities
+PulteGroup,United States,Industrials,Construction Services
+Signature Bank,United States,Financials,Regional Banks
+AGL Energy,Australia,Utilities,Electric Utilities
+Latam Airlines,Chile,Industrials,Airline
+AutoNation,United States,Consumer Discretionary,Specialty Stores
+Doosan,South Korea,Industrials,Construction Services
+Transocean,Switzerland,Energy,Oil Services & Equipment
+Hua Nan Financial,Taiwan,Financials,Consumer Financial Services
+KT&G,South Korea,Consumer Staples,Tobacco
+LKQ,United States,Consumer Discretionary,Auto & Truck Parts
+Equity Residential,United States,Financials,Real Estate
+Amorepacific,South Korea,,
+Iida Group Holdings,Japan,,
+Gecina,France,Financials,Real Estate
+Edwards Lifesciences,United States,Health Care,Medical Equipment & Supplies
+Medipal Holdings,Japan,Health Care,Pharmaceuticals
+Bunzl,United Kingdom,Consumer Discretionary,Business & Personal Services
+El Puerto de Liverpool,Mexico,Consumer Discretionary,Department Stores
+Vicinity Centres,Australia,,
+Delta Lloyd,Netherlands,Financials,Diversified Insurance
+Eisai,Japan,Health Care,Pharmaceuticals
+Marks & Spencer,United Kingdom,Consumer Discretionary,Department Stores
+Pioneer Natural Resources,United States,Energy,Oil & Gas Operations
+Arab Bank,Jordan,Financials,Regional Banks
+Foncière des Régions,France,,
+Sino-Ocean Land Holdings,China,Financials,Real Estate
+Nippon Express,Japan,Industrials,Trucking
+Dxc Technology,United States,Information Technology,
+Nordstrom,United States,Consumer Discretionary,Department Stores
+Pandora,Denmark,Consumer Staples,Household/Personal Care
+GKN,United Kingdom,Consumer Discretionary,Auto & Truck Parts
+Ajinomoto,Japan,Consumer Staples,Food Processing
+BNK Financial Group,South Korea,Financials,
+Founder Securities,China,,
+Vedanta Resources,United Kingdom,Materials,Diversified Metals & Mining
+Petronas Chemicals,Malaysia,Materials,Specialized Chemicals
+Magnitogorsk Iron & Steel,Russia,Materials,Iron & Steel
+Cintas,United States,,
+Dassault Systemes,France,Information Technology,Software & Programming
+Quinenco,Chile,Industrials,Conglomerates
+Nippon Yusen,Japan,Industrials,Other Transportation
+BRF,Brazil,Consumer Staples,
+Hasbro,United States,Consumer Discretionary,
+Illumina,United States,Health Care,Biotechs
+Kawasaki Heavy Industries,Japan,Industrials,Heavy Equipment
+Digital Realty Trust,United States,,
+Alcoa,United States,Materials,Aluminum
+Chugoku Electric Power,Japan,Utilities,Electric Utilities
+Koito Manufacturing,Japan,Industrials,
+AmTrust Financial Services,United States,Financials,
+Juniper Networks,United States,Information Technology,Communications Equipment
+United Utilities,United Kingdom,Utilities,Diversified Utilities
+Red Eléctrica,Spain,Utilities,
+RusHydro,Russia,Utilities,Electric Utilities
+Kobe Steel,Japan,Materials,Iron & Steel
+Wyndham Worldwide,United States,Consumer Discretionary,Hotels & Motels
+MOL Hungarian Oil,Hungary,Energy,Oil & Gas Operations
+Cathay Pacific Airways,Hong Kong,Industrials,Airline
+JetBlue Airways,United States,Industrials,
+Agilent Technologies,United States,Information Technology,Electronics
+Wolters Kluwer,Netherlands,Consumer Discretionary,Printing & Publishing
+Arkema,France,Materials,Diversified Chemicals
+Ezdan Holding Group,Qatar,Financials,Real Estate
+JSW Steel,India,Materials,Iron & Steel
+Electric Power Development,Japan,Utilities,Electric Utilities
+Hexagon,Sweden,Industrials,Other Industrial Equipment
+Ahli United Bank,Bahrain,Financials,Regional Banks
+Kerry Properties,Hong Kong,,
+Yuanta Financial Holding,Taiwan,Financials,Investment Services
+Airports of Thailand,Thailand,Industrials,Other Transportation
+CR Bard,United States,Health Care,Medical Equipment & Supplies
+Hanwha Chemical,South Korea,Materials,Diversified Chemicals
+Noble Group,Hong Kong,Industrials,Conglomerates
+Frontier Communications,United States,Telecommunication Services,Telecommunications services
+Ulta Salon Cosmetcs & Fragrance,United States,Consumer Discretionary,
+Crown Holdings,United States,Materials,Containers & Packaging
+Kintetsu,Japan,Industrials,Railroads
+Starwood Property Trust,United States,,
+Arthur J. Gallagher,United States,,
+Johnson Matthey,United Kingdom,Materials,Diversified Chemicals
+UGI,United States,Utilities,Natural Gas Utilities
+Grupo Televisa,Mexico,Consumer Discretionary,Broadcasting & Cable
+JB Hunt Transport,United States,Industrials,Trucking
+Iliad,France,Information Technology,Computer Services
+Next,United Kingdom,Consumer Discretionary,Apparel/Footwear Retail
+Arca Continental,Mexico,Consumer Staples,Beverages
+Uralkali,Russia,Materials,Specialized Chemicals
+Xilinx,United States,Information Technology,Semiconductors
+AAC Technologies Holdings,China,,
+Gudang Garam,Indonesia,Consumer Staples,Tobacco
+Banco Davivienda,Colombia,Financials,Regional Banks
+Mead Johnson Nutrition,United States,Consumer Staples,Household/Personal Care
+Essex Property Trust,United States,,
+Amcor,Australia,Materials,Containers & Packaging
+Financiere de l'Odet,France,Industrials,Conglomerates
+DCC,Ireland,Industrials,Conglomerates
+Geberit,Switzerland,Materials,Construction Materials
+Alfresa Holdings,Japan,Health Care,Pharmaceuticals
+Mitsui OSK Lines,Japan,Industrials,Other Transportation
+ICA Gruppen,Sweden,Consumer Discretionary,Printing & Publishing
+E.Sun Financial,Taiwan,Financials,Consumer Financial Services
+Fluor,United States,Industrials,Construction Services
+Saudi Arabian Mining,Saudi Arabia,Materials,Diversified Metals & Mining
+Partners Group Holding,Switzerland,,
+Mashreq Bank,United Arab Emirates,Financials,Regional Banks
+Noble Energy,United States,Energy,Oil & Gas Operations
+Caltex Australia,Australia,Energy,Oil & Gas Operations
+Bank Audi,Lebanon,Financials,Regional Banks
+LG Household & Health Care,South Korea,Health Care,
+Colruyt,Belgium,Consumer Staples,Food Retail
+Focus Media Information Technology,China,Information Technology,
+OMRON,Japan,Information Technology,Electronics
+Tenaris,Luxembourg,Energy,Oil Services & Equipment
+Old Republic International,United States,Financials,Property & Casualty Insurance
+Fukuoka Financial Group,Japan,Financials,Regional Banks
+Baiyin Nonferrous Group,China,,
+Dentsply Sirona,United States,,
+Tractor Supply,United States,Consumer Discretionary,Specialty Stores
+Grupo Carso,Mexico,Industrials,Conglomerates
+Materials Industry Zhongda Group,China,,
+Almarai,Saudi Arabia,Consumer Staples,Food Processing
+Open Text,Canada,,
+RHB Bank,Malaysia,Financials,
+Targa Resources,United States,Energy,
+Taylor Wimpey,United Kingdom,Industrials,
+Banca Mediolanum,Italy,,
+Expeditors International,United States,Industrials,Air Courier
+Inner Mongolia Baotou Steel,Mongolia,Materials,Iron & Steel
+Metro,Canada,,
+Stockland Australia,Australia,Financials,Real Estate
+Olam International,Singapore,Consumer Staples,Food Processing
+Pinnacle West,United States,Utilities,Electric Utilities
+Chang Hwa Bank,Taiwan,Financials,Regional Banks
+Samsung SDS,South Korea,Information Technology,
+Brambles,Australia,Consumer Discretionary,Business & Personal Services
+Verisk Analytics,United States,Consumer Discretionary,Business & Personal Services
+Sealed Air,United States,Materials,Containers & Packaging
+Union Bank of India,India,Financials,Regional Banks
+British Land,United Kingdom,Financials,Real Estate
+Seiko Epson,Japan,Industrials,Business Products & Supplies
+Barratt Developments,United Kingdom,,
+NSK,Japan,Industrials,Other Industrial Equipment
+Equifax,United States,Consumer Discretionary,Business & Personal Services
+Transurban Group,Australia,,
+Perrigo,Ireland,Health Care,Pharmaceuticals
+Rite Aid,United States,Consumer Staples,Drug Retail
+Coloplast,Denmark,Health Care,Medical Equipment & Supplies
+Newcrest Mining,Australia,Materials,Diversified Metals & Mining
+China Merchants Holdings,Hong Kong,Industrials,Other Transportation
+Dassault Aviation,France,Industrials,Aerospace & Defense
+UBI Banca,Italy,Financials,Regional Banks
+Bajaj Auto,India,Consumer Discretionary,Recreational Products
+Sabesp,Brazil,Utilities,Diversified Utilities
+Steel Dynamics,United States,Materials,
+Ramsay Health Care,Australia,Health Care,
+Equinix,United States,,
+Coach,United States,Consumer Discretionary,Apparel/Accessories
+Cosmo Energy Holdings,Japan,,
+ISS,Denmark,,
+Coca-Cola HBC,Switzerland,Consumer Staples,Beverages
+Goodman Group,Australia,,
+Aeroports de Paris,France,Industrials,Other Transportation
+E-mart,South Korea,Consumer Discretionary,Discount Stores
+RiseSun Real Estate Development,China,Materials,
+China National Chemical,China,Industrials,Construction Services
+Acciona,Spain,Industrials,Construction Services
+Fastenal,United States,Consumer Discretionary,Home Improvement Retail
+Hyundai Glovis,South Korea,Industrials,Other Transportation
+Hanesbrands,United States,Consumer Discretionary,Apparel/Accessories
+Penske Automotive,United States,Consumer Discretionary,Specialty Stores
+Shoprite Holdings,South Africa,Consumer Staples,Food Retail
+Gjensidige Forsikring,Norway,Financials,Property & Casualty Insurance
+McCormick,United States,Consumer Staples,
+Shanghai Commercial & Savings Bank,Taiwan,Financials,
+Shiseido,Japan,Consumer Staples,Household/Personal Care
+AVIC Capita,China,,
+Melco International Development,Hong Kong,,
+Citrix Systems,United States,Information Technology,Software & Programming
+Goldcorp,Canada,Materials,Diversified Metals & Mining
+Realty Income,United States,,
+AECOM Technology,United States,Industrials,
+ITV,United Kingdom,Consumer Discretionary,Broadcasting & Cable
+Cheniere Energy,United States,Energy,
+Banco Popular Espanol,Spain,Financials,Regional Banks
+Agile Property Holdings,China,Financials,Real Estate
+NCC Group,Sweden,Industrials,Construction Services
+Oji Holdings,Japan,Materials,Paper & Paper Products
+Korean Air,South Korea,Industrials,Airline
+Hong Leong Financial,Malaysia,Financials,Investment Services
+Smurfit Kappa Group,Ireland,Materials,Paper & Paper Products
+Abu Dhabi Islamic Bank,United Arab Emirates,Financials,Regional Banks
+Hyosung,South Korea,Materials,Diversified Metals & Mining
+Aozora Bank,Japan,Financials,Major Banks
+Ashtead Group,United Kingdom,,
+Storebrand,Norway,Financials,Diversified Insurance
+Persimmon,United Kingdom,,
+Ingredion,United States,Consumer Staples,Food Processing
+KB Insurance,South Korea,,
+Sistema,Russia,Telecommunication Services,Telecommunications services
+Taishin Financial Holdings,Taiwan,Financials,Investment Services
+Yamaguchi Financial,Japan,Financials,Regional Banks
+Mizrahi Tefahot Bank,Israel,Financials,Regional Banks
+Meritz Financial Group,South Korea,Financials,
+Kangmei Pharmaceutical,China,Health Care,
+IHI,Japan,Industrials,Heavy Equipment
+Scripps Networks Interactive,United States,Consumer Discretionary,Broadcasting & Cable
+Hang Lung Group,Hong Kong,Financials,Real Estate
+Waters,United States,,Precision Healthcare Equipment
+SEIBU,Japan,Consumer Discretionary,
+China Longyuan Power,China,Utilities,Diversified Utilities
+Adient,Ireland,Energy,
+Blom Bank,Lebanon,Financials,Regional Banks
+Hokuhoku Financial Group,Japan,Financials,Regional Banks
+Jiangsu Hengrui Medicine,China,Financials,
+Ametek,United States,Industrials,Electrical Equipment
+STMicroelectronics,Switzerland,Information Technology,Semiconductors
+Dangote Cement,Nigeria,Materials,Construction Materials
+SDIC Essence,China,,
+Wärtsilä,Finland,,
+Oi,Brazil,Telecommunication Services,Telecommunications services
+Maxim Integrated Products,United States,Information Technology,Semiconductors
+Chow Tai Fook Jewellery,Hong Kong,Consumer Discretionary,Apparel/Accessories
+Shimano,Japan,Consumer Discretionary,Recreational Products
+Bank Muscat,Oman,Financials,Regional Banks
+Concordia Financial Group,Japan,Financials,
+Thai Oil,Thailand,Energy,Oil & Gas Operations
+Axiata Group,Malaysia,Information Technology,Communications Equipment
+Turkish Airlines,Turkey,Industrials,Airline
+Moscow Exchange,Russia,Financials,
+Adani Ports & Special Economic Zone,India,,
+News Corp,United States,Consumer Discretionary,Broadcasting & Cable
+Metalurgica Gerdau,Brazil,Materials,Iron & Steel
+Packaging Corp of America,United States,,
+Oceanwide Holdings,China,Financials,
+China Communications Services,China,Telecommunication Services,Telecommunications services
+Hertz Global Holdings,United States,Financials,Rental & Leasing
+Fresnillo,Mexico,Materials,
+DSV,Denmark,Industrials,Trucking
+Alpha Bank,Greece,Financials,Regional Banks
+FleetCor Technologies,United States,Energy,
+IDBI Bank,India,Financials,Regional Banks
+EMS-Chemie Holding,Switzerland,Materials,Specialized Chemicals
+Whitbread,United Kingdom,Consumer Discretionary,Hotels & Motels
+Albemarle,United States,Consumer Discretionary,
+Taiwan Mobile,Taiwan,Telecommunication Services,Telecommunications services
+NEX Group,United Kingdom,Telecommunication Services,
+Suruga Bank,Japan,Financials,Regional Banks
+Compal Electronics,Taiwan,Information Technology,Computer Hardware
+Metropolitan Bank & Trust,Philippines,Financials,Regional Banks
+Mitsui Chemicals,Japan,Materials,Specialized Chemicals
+TransDigm Group,United States,,
+NiSource,United States,Utilities,Natural Gas Utilities
+Banco BPI,Portugal,Financials,Regional Banks
+Taiheiyo Cement,Japan,Materials,Construction Materials
+Alstom,France,Industrials,Conglomerates
+Liberty Media Corporation Series A Liberty Formula One,United States,,
+Lindt & Sprungli,Switzerland,Consumer Staples,Food Processing
+Continental Resources,United States,Energy,Oil & Gas Operations
+Vulcan Materials,United States,Materials,
+MISC,Malaysia,Industrials,Other Transportation
+Uniqa,Austria,Financials,Diversified Insurance
+Companhia Brasileira de Distribuicao,Brazil,,
+Grupo Bolivar,Colombia,,
+Hiroshima Bank,Japan,Financials,Regional Banks
+Yunnan Baiyao Group,China,Health Care,Pharmaceuticals
+Alinma Bank,Saudi Arabia,Financials,Regional Banks
+Ferrari,Italy,Consumer Discretionary,
+LG Uplus,South Korea,Telecommunication Services,Telecommunications services
+Ensco,United Kingdom,Energy,Oil Services & Equipment
+Assured Guaranty,Bermuda,Financials,Diversified Insurance
+Banco BPM SpA,Italy,,
+EFG International,Switzerland,,
+Rajesh Exports,India,Materials,
+Wendel,France,Financials,Investment Services
+Spirit AeroSystems,United States,,
+Terumo,Japan,Health Care,Medical Equipment & Supplies
+Office Depot,United States,,
+Shizuoka Bank,Japan,Financials,Regional Banks
+Mercuries & Associates,Taiwan,Consumer Discretionary,Department Stores
+Bank Otkritie,Russia,Financials,
+Foshan Haitian Flavouring and Food Company,China,Consumer Staples,
+Staples,United States,Consumer Discretionary,Specialty Stores
+Zhengzhou Yutong Bus,China,,
+Industrial Securities,China,Financials,
+Pacific Exploration & Production,Canada,,
+Ihs Markit,United Kingdom,Information Technology,
+Bendigo & Adelaide Bank,Australia,Financials,Regional Banks
+US Foods,United States,Consumer Staples,
+CCR,Brazil,Industrials,Other Transportation
+Church & Dwight,United States,Consumer Staples,Household/Personal Care
+Yamada Denki,Japan,Information Technology,Computer & Electronics Retail
+BCV Group,Switzerland,Financials,Regional Banks
+Hankook Tire,South Korea,Consumer Discretionary,
+Martin Marietta Materials,United States,Materials,
+Intelsat,Luxembourg,,
+Royal Mail,United Kingdom,Telecommunication Services,
+Orkla,Norway,Industrials,Conglomerates
+Saipem,Italy,,
+Aeroflot-Russian Airlines,Russia,Materials,
+Westlake Chemical,United States,Materials,Diversified Chemicals
+Canadian Utilities,Canada,Utilities,
+Suzuken,Japan,Health Care,Pharmaceuticals
+Concho Resources,United States,Energy,Oil & Gas Operations
+Hero Motocorp,India,Consumer Discretionary,Recreational Products
+Pembina Pipeline,Canada,Energy,Oil & Gas Operations
+Union National Bank,United Arab Emirates,Financials,Regional Banks
+Gunma Bank,Japan,Financials,Regional Banks
+Novozymes,Denmark,Health Care,Biotechs
+Avis Budget Group,United States,Financials,Rental & Leasing
+Sumitomo Metal Mining,Japan,Materials,Diversified Metals & Mining
+China International Marine,China,Industrials,Heavy Equipment
+ONO Pharmaceutical,Japan,Health Care,
+Maxis,Malaysia,Telecommunication Services,Telecommunications services
+BM&F Bovespa,Brazil,Financials,Investment Services
+CNO Financial Group,United States,Financials,Life & Health Insurance
+Piraeus Bank,Greece,Financials,Regional Banks
+World Fuel Services,United States,Consumer Discretionary,Specialty Stores
+CJ Cheiljedang,South Korea,Consumer Staples,Food Processing
+Tiffany & Co.,United States,Consumer Discretionary,
+XPO Logistics,United States,Consumer Discretionary,
+BBVA Banco Continental,Peru,,
+Tech Data,United States,Information Technology,Electronics
+National Bank of Greece,Greece,Financials,Major Banks
+EasyJet,United Kingdom,Industrials,Airline
+HRG Group,United States,,
+Kyushu Financial Group,Japan,Financials,
+Boliden,Sweden,Materials,
+NVR,United States,,
+Alliant Energy,United States,Utilities,Electric Utilities
+Nishi-nippon Financial Holdings,Japan,Energy,
+Fortune Brands Home & Security,United States,,
+NetApp,United States,Information Technology,Computer Storage Devices
+Snap-on,United States,,
+Bank of Qingdao,China,Financials,
+Far East Horizon,Hong Kong,,
+Garmin,Switzerland,Consumer Discretionary,Consumer Electronics
+People's United Financial,United States,Financials,Thrifts & Mortgage Finance
+North Pacific Bank,Japan,Financials,Regional Banks
+Grasim Industries,India,Materials,Construction Materials
+Banco Comercial Portugues,Portugal,Financials,Regional Banks
+Moscovskiy Oblastnoi Bank,Russia,Financials,
+Rexel,France,Information Technology,Electronics
+Axis Capital Holdings,Bermuda,Financials,Diversified Insurance
+Bank of Kyoto,Japan,Financials,Regional Banks
+Hachijuni Bank,Japan,Financials,Regional Banks
+Guangdong Investment,Hong Kong,Utilities,Diversified Utilities
+Chugoku Bank,Japan,Financials,Regional Banks
+77 Bank,Japan,Financials,Regional Banks
+STRABAG,Austria,Industrials,Construction Services
+SBI Holdings,Japan,Financials,Investment Services
+Vietin Bank,Vietnam,Financials,Regional Banks
+GPT Group,Australia,Financials,Real Estate
+Shandong Gold Mining,China,Utilities,
+Jabil Circuit,United States,Information Technology,Electronics
+Sears Holdings,United States,Consumer Discretionary,Department Stores
+Smiths Group,United Kingdom,Industrials,Conglomerates
+Eurobank Ergasias,Greece,,
+Tsinghua Tongfang,China,,
+BPER Banca,Italy,Financials,
+China Jinmao,Hong Kong,Financials,
+Vertex Pharmaceuticals,United States,Health Care,Biotechs
+Dixons Carphone,United Kingdom,,
+Incyte,United States,Health Care,
+President Chain Store,Taiwan,Consumer Staples,Food Retail
+New Residential Investment,United States,Financials,
+Deutsche Pfandbriefbank,Germany,,
+MAp,Australia,,
+BorgWarner,United States,Consumer Discretionary,Auto & Truck Parts
+Chimera Investment,United States,Financials,
+ProSiebenSat1 Media,Germany,Consumer Discretionary,Broadcasting & Cable
+Shanghai Lujianzi,China,,
+Tosoh,Japan,Materials,Diversified Chemicals
+Dana Holding,United States,Financials,
+Joint Stock Commercial Bank for Foreign Trade of Vietnam,Vietnam,Financials,
+SL Green Realty,United States,Financials,Real Estate
+Beijing Shougang,China,,
+Sysmex,Japan,,
+Want Want China,China,Consumer Staples,Food Processing
+WellCare Health Plans,United States,Health Care,
+Catcher Technology,Taiwan,Information Technology,
+Central Bank of India,India,Financials,Regional Banks
+Iyo Bank,Japan,Financials,Regional Banks
+Mettler-Toledo International,United States,,
+New Hope Liuhe,China,Consumer Staples,Food Processing
+Wistron,Taiwan,Information Technology,Computer Hardware
+American Equity Investment,United States,Financials,Life & Health Insurance
+Cnpc Capital,China,,
+Michael Kors Holdings,United Kingdom,Consumer Discretionary,Apparel/Accessories
+Ternium,Luxembourg,Materials,Iron & Steel
+Israel Discount Bank,Israel,Financials,Regional Banks
+Signet Jewelers,Bermuda,Consumer Discretionary,Specialty Stores
+Empire,Canada,Consumer Staples,Food Retail
+PacWest Bancorp,United States,,
+Techtronic Industries,Hong Kong,Utilities,
+Tokyu Fudosan,Japan,,
+Hengan International Group,China,Consumer Staples,Household/Personal Care
+Moody's,United States,Consumer Discretionary,Business & Personal Services
+Juroku Bank,Japan,Financials,Regional Banks
+AU Optronics,Taiwan,Information Technology,Electronics
+Commercial Bank For Investment & Development Of Vietnam,Vietnam,Financials,
+Shaw Communications,Canada,Consumer Discretionary,Broadcasting & Cable
+Haseko,Japan,,
+Bureau Veritas Registre International de Classific,France,,
+DSME,South Korea,Industrials,Heavy Equipment
+CST Brands,United States,Consumer Discretionary,Specialty Stores
+Molina Healthcare,United States,Health Care,
+Brilliance China Automotive Holdings,Hong Kong,,
+Toho Bank,Japan,Financials,Regional Banks
+Cattolica Assicurazioni,Italy,Financials,Diversified Insurance
+EQT,United States,Energy,Oil & Gas Operations
+Snap,United States,Financials,
+Tongyang Life Insurance,South Korea,Utilities,
+Samsung Heavy Industries,South Korea,Industrials,Heavy Equipment
+SinoPac Financial,Taiwan,Financials,Consumer Financial Services
+INTL FCStone,United States,,
+Commercial International Bank,Egypt,Financials,Regional Banks
+Cybg,United Kingdom,Financials,
+Orient,Japan,Financials,Consumer Financial Services
+Wynn Resorts,United States,Consumer Discretionary,Casinos & Gaming
+Hopson Development Holdings,Hong Kong,Financials,Real Estate
+JTEKT,Japan,Consumer Discretionary,Auto & Truck Parts
+Nippon Paint,Japan,Materials,
+Calpine,United States,Utilities,Electric Utilities
+BayWa,Germany,Consumer Discretionary,Specialty Stores
+Migdal Insurance,Israel,Financials,
+Changjiang Securities,China,Financials,
+Aareal Bank,Germany,Financials,Thrifts & Mortgage Finance
+Kansas City Southern,United States,Industrials,Railroads
+Dufry,Switzerland,Utilities,
+Interconexion Electrica,Colombia,Financials,
+San-In Godo Bank,Japan,Financials,Regional Banks
+Nanto Bank,Japan,Financials,Regional Banks
+Li & Fung,Hong Kong,Industrials,Trading Companies
+Lupin,India,Health Care,
+Encana,Canada,Energy,Oil & Gas Operations
+City Developments,Singapore,Financials,Real Estate
+WPG Holdings,Taiwan,Information Technology,Electronics
+KWG Property Holding,Hong Kong,,
+Huntsman,United States,Materials,Diversified Chemicals
+Sino Land,Hong Kong,Financials,Real Estate
+Bohai Financial Investment Holding,China,Financials,
+Tokyo TY Financial Group,Japan,Materials,
+Nippon Steel Trading,Japan,Materials,Diversified Metals & Mining
+Bank of Greece,Greece,Financials,Major Banks
+Performance Food Group,United States,,
+Ogaki Kyoritsu Bank,Japan,Financials,Regional Banks
+Hyakugo Bank,Japan,Financials,Regional Banks
+Daishi Bank,Japan,Financials,Regional Banks
+Senshu Ikeda Holdings,Japan,Financials,Regional Banks
+Supervalu,United States,Consumer Staples,Food Retail
+NASDAQ OMX Group,United States,Financials,Investment Services
+CPFL Energia,Brazil,Utilities,Electric Utilities
+Severn Trent,United Kingdom,Utilities,Diversified Utilities
+PBF Energy,United States,Energy,Oil & Gas Operations
+Crown Resorts,Australia,Consumer Discretionary,Casinos & Gaming
+Mirae Asset Daewoo,South Korea,,
+Shiga Bank,Japan,Financials,Regional Banks
+SK Networks,South Korea,Industrials,Trading Companies
+Banco de Chile,Chile,,
+Showa Shell Sekiyu,Japan,Energy,Oil & Gas Operations
+Turkcell,Turkey,Telecommunication Services,Telecommunications services
+Syndicate Bank,India,Financials,Regional Banks
+Affiliated Managers Group,United States,Financials,Investment Services
+Vipshop Holdings,China,,
+Isetan Mitsukoshi Holdings,Japan,Consumer Discretionary,Department Stores
+Taiwan Business Bank,Taiwan,Financials,Regional Banks
+CalAtlantic Group,United States,Industrials,
+Waste Connections,Canada,,
+Nürnberger,Germany,,
+KION Group,Germany,Materials,
+International Flavors & Fragrances,United States,Utilities,
+China National Materials,China,Industrials,Other Industrial Equipment
+Prada,Italy,Consumer Discretionary,Apparel/Accessories
+Indorama Ventures,Thailand,,
+Korea Zinc,South Korea,Materials,
+Nomura Research Institute,Japan,,
+Tingyi Holding,China,Consumer Staples,Food Processing
+Tenneco,United States,,
+Cullen/Frost Bankers,United States,,
+First Pacific,Hong Kong,Financials,Investment Services
+Logan Property Holdings,China,Financials,
+DGB Financial Group,South Korea,Financials,Consumer Financial Services
+Shanghai Fosun Pharmaceutical (group),China,Health Care,
+Central Puerto,Argentina,,
+Xishui Strong Year Ltd. Inner Mongolia,China,,
+China Mengniu Dairy,Hong Kong,Consumer Staples,Food Processing
+Securitas,Sweden,Consumer Discretionary,Business & Personal Services
+AmBank Group,Malaysia,Financials,Regional Banks
+Ningbo Port,China,,
+Penn Virginia,United States,,
+Chongqing New Century Cruise,China,,
+Jacobs Engineering,United States,Industrials,Construction Services
+Red Star Macalline Group,China,,
+Virgin Money Holdings,United Kingdom,,
+Mattel,United States,Consumer Staples,Household/Personal Care
+Credit Saison,Japan,Financials,Consumer Financial Services
+Mirvac Group,Australia,,
+Hyakujushi Bank,Japan,Financials,Regional Banks
+GameStop,United States,,
+Asian Paints,India,Materials,
+Frasers Centrepoint,Singapore,,
+Xiamen Xiangyu,China,,
+Credito Emiliano,Italy,Financials,Regional Banks
+Remgro,South Africa,Industrials,Conglomerates
+Core-Mark Holding Company,United States,,
+Kiyo Bank,Japan,Financials,
+Shenzhou International Group Holdings,China,,
+SYNNEX,United States,,
+Damac Properties,United Arab Emirates,,
+Aboitiz Equity Ventures,Philippines,Industrials,Conglomerates
+HD Supply Holdings,United States,Financials,
+RioCan Real Estate Investment Trust,Canada,,
+Emera,Canada,Energy,
+Grupo Zuliano,Venezuela,,
+InterContinental Hotels,United Kingdom,Consumer Discretionary,Hotels & Motels
+Impulsora del Desarrollo y el Empleo en America Latina SAB Class B,Mexico,,
+Accor,France,Consumer Discretionary,Hotels & Motels
+Liberbank,Spain,Financials,Regional Banks
+Bandai Namco Holdings,Japan,,
+Zenith Bank,Nigeria,Financials,Regional Banks
+Fullshare Holdings,Hong Kong,,
+Hologic,United States,,
+Keiyo Bank,Japan,Financials,Regional Banks
+Banque Centrale Populaire,Morocco,Financials,Regional Banks
+Owens Corning,United States,Industrials,
+Autodesk,United States,Information Technology,
+Yonghui Superstores,China,Consumer Discretionary,
+Banca Popolare di Sondrio,Italy,Financials,Regional Banks
+VeriSign,United States,Information Technology,Software & Programming
+Antofagasta,United Kingdom,Materials,Diversified Metals & Mining
+Fuyao Glass Industry Group,China,Materials,
+Bank of Queensland,Australia,Financials,Regional Banks
+Angang Steel,China,Materials,Iron & Steel
+Kingboard Chemical Holdings,Hong Kong,,
+Wanhua Chemical Group,China,Materials,Specialized Chemicals
+Habib Bank,Pakistan,Financials,
+Umicore,Belgium,Materials,Diversified Metals & Mining
+Popular,Puerto Rico,Financials,Regional Banks
+Chesapeake Energy,United States,Energy,Oil & Gas Operations
+Golden Agri-Resources,Singapore,Consumer Staples,Food Processing
+Far Eastern New Century,Taiwan,Materials,Diversified Chemicals
+Musashino Bank,Japan,Financials,Regional Banks
+JB Financial Group,South Korea,Financials,
+Basler Kantonalbank,Switzerland,Financials,Regional Banks
+Indian Overseas Bank,India,Financials,Regional Banks
+Bid Corp.,South Africa,,
+Marine Harvest ASA,Norway,,
+Nippon Paper Industries,Japan,Materials,
+TAQA,United Arab Emirates,Utilities,Electric Utilities
+United Aircraft,Russia,Industrials,
+Inventec,Taiwan,Information Technology,Computer Hardware
+Bluescope Steel,Australia,Materials,
+Hanwa,Japan,Materials,Diversified Metals & Mining
+Makita,Japan,Consumer Staples,Household/Personal Care
+China Railway Signal & Communication,China,Telecommunication Services,
+Shanghai Industrial Holdings,Hong Kong,Financials,
+Xiamen International Trade Group,China,,
+Hokkoku Bank,Japan,Financials,Regional Banks
+Dali Foods Group,China,Financials,
+Commercial Bank of Qatar,Qatar,Financials,Regional Banks
+Industrias Peñoles,Mexico,,
+Allahabad Bank,India,Financials,Regional Banks
+Avery Dennison,United States,,
+Merlin Properties SOCIMI S.A,Spain,,
+Petro Rabigh,Saudi Arabia,Materials,Diversified Chemicals
+Phosagro,Russia,Materials,
+UCO Bank,India,Financials,Regional Banks
+China Molybdenum,China,Materials,
+NH Investment & Securities,South Korea,,
+Japan Securities,Japan,Financials,Investment Services
+Corporation Bank,India,Financials,Regional Banks
+Public Power,Greece,Utilities,Electric Utilities
+Tongling Nonferrous Metals,China,Materials,Diversified Metals & Mining
+Zhongsheng Group Holdings,China,,
+Alawwal Bank,Saudi Arabia,Financials,
+Oriental Bank of Commerce,India,Financials,Regional Banks
+Paramount Res,Canada,,
+Toyota Boshoku,Japan,Consumer Discretionary,Auto & Truck Parts
+JC Penney,United States,Consumer Discretionary,Department Stores
+Spectrum Brands Holdings,United States,,
+G4S,United Kingdom,Industrials,Security Systems
+Jabal Omar Development,Saudi Arabia,,
+Guoco Group,Hong Kong,,
+Two Harbors Investment,United States,Financials,Real Estate
+Beijing Capital Development,China,Financials,
+Hellenic Petroleum,Greece,Energy,Oil & Gas Operations
+Enka,Turkey,Industrials,Construction Services
+Jilin Jiutai Rural Commercial Bank,China,Financials,
+Innolux,Taiwan,Information Technology,Computer Hardware
+Luzerner Kantonalbank,Switzerland,Financials,Regional Banks
+China Resources Gas Group,Hong Kong,Materials,
+First Quantum Minerals,Canada,Materials,Diversified Metals & Mining
+ST Engineering,Singapore,Industrials,Aerospace & Defense
+Delek Group,Israel,Financials,Investment Services
+Lanxess,Germany,Materials,Diversified Chemicals
+Extra Space Storage,United States,,
+Financial Street Holdings,China,Financials,Real Estate
+Burberry Group,United Kingdom,Consumer Discretionary,Apparel/Accessories
+Petronas Gas,Malaysia,Utilities,Natural Gas Utilities
+Workday,United States,,
+GS Engineering,South Korea,Industrials,Construction Services
+Hokkaido Electric Power,Japan,Utilities,Electric Utilities
+Lonza Group,Switzerland,Materials,
+FIBI Holdings,Israel,Financials,Regional Banks
+GEA Group,Germany,Industrials,Conglomerates
+Mid-america Apartment Communities,United States,,
+Vietnam Dairy Products,Vietnam,Consumer Staples,
+Sumitomo Rubber,Japan,Consumer Discretionary,Auto & Truck Parts
+Areva,France,Utilities,Diversified Utilities
+Leidos,United States,,
+Reliance Steel,United States,Materials,Iron & Steel
+Kroton Educacional,Brazil,,
+Laurentian Bank,Canada,Financials,Regional Banks
+Babcock International Group,United Kingdom,Consumer Discretionary,Business & Personal Services
+Fabege AB,Sweden,,
+First Citizens BancShares,United States,,
+Hella Kgaa Hueck &,Germany,,
+BOK Financial,United States,Financials,Regional Banks
+Jazz Pharmaceuticals,Ireland,Health Care,
+Toho Holdings,Japan,Financials,Pharmaceuticals
+Microchip Technology,United States,Information Technology,Semiconductors
+Shanghai International Airport,China,Industrials,
+Atmos Energy,United States,Energy,
+Amdocs,United States,Information Technology,Software & Programming
+Kuwait Projects,Kuwait,Financials,Investment Services
+China Aviation Oil,Singapore,Industrials,Trading Companies
+Hakuhodo DY Holdings,Japan,Financials,
+MMI Holdings,South Africa,Financials,Life & Health Insurance
+Chinese Estates,Hong Kong,Financials,Real Estate
+TP ICAP,United Kingdom,,
+Technipfmc,United Kingdom,Energy,
+Murphy USA,United States,Consumer Discretionary,Specialty Stores
+Bank of Nagoya,Japan,Financials,Regional Banks
+Emirates Integrated Telecom,United Arab Emirates,Telecommunication Services,Telecommunications services
+St Galler Kantonalbank,Switzerland,Financials,Regional Banks
+Ares Capital,United States,Financials,
+Aroundtown Property Holdings,Germany,Financials,
+GOME Electrical Appliances Holding,Hong Kong,,
+Greentown China Holdings,China,Financials,Real Estate
+Jiangsu Expressway,China,Industrials,
+Premier,United States,Consumer Discretionary,
+China Agri-Industries,Hong Kong,Materials,Diversified Chemicals
+Pou Chen,Taiwan,Consumer Discretionary,Apparel/Accessories
+Aldar Properties,United Arab Emirates,Financials,Real Estate
+Tomony Holdings,Japan,Financials,Regional Banks
+Vereit,United States,,
+BioMarin Pharmaceutical,United States,Health Care,
+Steel Authority of India,India,Materials,Iron & Steel
+Doha Bank,Qatar,Financials,Regional Banks
+Jaccs,Japan,Financials,Consumer Financial Services
+Indiabulls Housing Finance,India,Financials,
+Red Hat,United States,Information Technology,
+Korea Investment Holdings,South Korea,Financials,
+Indian Bank,India,Financials,Regional Banks
+Kesko,Finland,Consumer Staples,Food Retail
+Minato Bank,Japan,,
+Andhra Bank,India,Financials,Regional Banks
+US Steel,United States,Materials,Iron & Steel
+Verbund,Austria,Utilities,Electric Utilities
+Saudi Investment Bank,Saudi Arabia,Financials,Investment Services
+BMCE Bank,Morocco,Financials,Regional Banks
+NH Foods,Japan,,
+Thomas Cook Group,United Kingdom,Consumer Discretionary,Business & Personal Services
+Manila Electric,Philippines,Utilities,Electric Utilities
+Arab Banking,Bahrain,Financials,Regional Banks
+Synovus Financial,United States,Financials,Regional Banks
+Western Union,United States,Consumer Discretionary,Business & Personal Services
+Pearson,United Kingdom,Consumer Discretionary,Printing & Publishing
+Banca IFIS,Italy,Financials,
+Motherson Sumi Systems,India,,
+SBA Communications,United States,Telecommunication Services,
+Advanced Micro Devices,United States,Utilities,
+Hudson's Bay,Canada,,
+Total System Services,United States,Financials,
+Sinopec Oilfield Service,China,Energy,
+Westar Energy,United States,Energy,
+Group 1 Automotive,United States,Consumer Discretionary,
+Dollarama,Canada,Consumer Discretionary,
+Shanghai RAAS Blood Products,China,,
+Associated Banc-Corp,United States,Financials,
+DVB Bank,Germany,Financials,Regional Banks
+RenaissanceRe Holdings,Bermuda,Financials,
+Global Payments,United States,Consumer Discretionary,
+Commerce Bancshares,United States,Financials,
+ServiceNow,United States,Information Technology,
+Samsung SDI,South Korea,Information Technology,
+China Great Wall Computer,China,Information Technology,
+Tian An China Investments,Hong Kong,Financials,
+HollyFrontier,United States,Energy,Oil & Gas Operations
+Dah Sing Financial Holdings,Hong Kong,Financials,
+Nanya Technology,Taiwan,Information Technology,
+Shanxi Taigang Stainless,China,Materials,Iron & Steel
+First Horizon National,United States,,
+Brother Industries,Japan,Materials,
+Chicago Bridge & Iron,Netherlands,Industrials,Construction Services
+Belle International Holdings,Hong Kong,Consumer Discretionary,Apparel/Footwear Retail
+F5 Networks,United States,,
+Valspar,United States,Information Technology,
+DKSH Holding,Switzerland,Materials,
+Grupo Galicia,Argentina,,
+Bank of Iwate,Japan,Financials,Regional Banks
+Konica Minolta Business Solutions,Japan,Financials,
+Synnex Technology Intl,Taiwan,Information Technology,
+Eurazeo,France,Financials,Investment Services
+Bankunited,United States,Financials,
+Barry Callebaut,Switzerland,Consumer Discretionary,
+Inchcape,United Kingdom,Consumer Discretionary,Specialty Stores
+Yamanashi Chuo Bank,Japan,Financials,Regional Banks
+Guangxi Guiguan Electric Power,China,Energy,
+Live Nation Entertainment,United States,Energy,
+Shaanxi Coal Industry,China,Materials,Diversified Metals & Mining
+Aurubis,Germany,Materials,Diversified Metals & Mining
+BEKB-BCBE,Switzerland,Financials,Regional Banks
+Fastighets Balder,Sweden,Materials,
+Akamai Technologies,United States,Information Technology,Computer Services
+Oita Bank,Japan,Financials,Regional Banks
+Tech Mahindra,India,Information Technology,

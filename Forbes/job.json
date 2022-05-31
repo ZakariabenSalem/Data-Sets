@@ -1,0 +1,20 @@
+{
+    "BigQuery Schema": [{
+      "name": "Company",
+      "type": "STRING"
+     },
+     {
+      "name": "Country",
+      "type": "STRING"
+     },
+     {
+        "name": "Sector",
+        "type": "STRING"
+       },
+       {
+        "name": "Industry",
+        "type": "STRING"
+       }
+
+    ]
+}   
