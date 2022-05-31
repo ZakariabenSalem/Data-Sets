@@ -1,20 +1,19 @@
-name : Sync
+name: Sync
 
-on: 
+on:
   push:
     branches:
-      - master 
-      
+      - master
+
 jobs:
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - uses: action/checkout@v2
-      
+      - uses: actions/checkout@v2
+
       - name: Sync
         uses: patrickwyler/gcs-bucket-sync-action@1.0
-        with :
-          secrets: ${{secrets.google_service_account_credentials}}
+        with:
+          secrets: ${{ secrets.google_service_account_credentials }}
           bucket: 'github-tunisia-ai-data'
-          
